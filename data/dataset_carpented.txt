@@ -1,0 +1,1743 @@
+ID	Gmina	day	month	year	reported_time	localisation	species	weight
+1	KRAKOW	1	1	2019	12:56	Śliwiaka	birds	5
+2	KRAKOW	1	1	2019	13:07	Tischnera	dog	25
+3	KRAKOW	1	1	2019	18:20	29 red foxtopada	red fox	13
+4	KRAKOW	2	1	2019	7:22	Bora-Komorowskiego	domestic cat	7
+5	KRAKOW	2	1	2019	10:58	Winnicka	wild boar	8
+6	KRAKOW	3	1	2019	20:38	Jaremy 23-25	domestic cat	1
+7	KRAKOW	4	1	2019	21:38	Na Zakolu wisły	birds	3
+8	KRAKOW	4	1	2019	22:38	Jana Pawła II	roe deer	26
+9	KRAKOW	5	1	2019	19:06	Nowohucka	red fox	5
+10	KRAKOW	7	1	2019	10:05	Żołnierska	birds	5
+11	KRAKOW	7	1	2019	11:43	Ogrodnicza 5A	domestic cat	5
+12	KRAKOW	7	1	2019	13:36	Krowoderska 55-57	domestic cat	5
+13	KRAKOW	8	1	2019	3:13	Podbipiety	wild boar	9
+14	KRAKOW	8	1	2019	18:24	Winnicka	dog	10
+15	KRAKOW	9	1	2019	7:16	Białopradnicka 21	domestic cat	
+16	KRAKOW	10	1	2019	6:31	Jasnogorska	roe deer	30
+17	KRAKOW	10	1	2019	8:09	Tyniecka  151	roe deer	31
+18	KRAKOW	10	1	2019	17:05	Kościelnicka 1A-1B	roe deer	
+19	KRAKOW	11	1	2019	16:35	Strażacka 31C	roe deer	27
+20	KRAKOW	12	1	2019	6:50	Igolomska 98	domestic cat	3
+21	KRAKOW	13	1	2019	11:30	Nowolipki	birds	1
+22	KRAKOW	14	1	2019	6:42	Rączna 66B	domestic cat	5
+23	KRAKOW	14	1	2019	13:23	Szkolne 30	domestic cat	5
+24	KRAKOW	14	1	2019	21:35	Kocmyrzowska	dog	29
+25	KRAKOW	16	1	2019	17:15	Św. Sebastiana 17	domestic cat	5
+26	KRAKOW	16	1	2019	23:12	Opolska	red fox	10
+27	KRAKOW	17	1	2019	5:44	Ks. Józefa 253	domestic cat	5
+28	KRAKOW	17	1	2019	20:06	Stolarza 11	domestic cat	3
+29	KRAKOW	18	1	2019	10:05	Siarczanogórska 26D	domestic cat	7
+30	KRAKOW	19	1	2019	10:17	Słowackiego/Kamienna	domestic cat	2
+31	KRAKOW	19	1	2019	19:44	Rydlówka 34	domestic cat	3
+32	KRAKOW	20	1	2019	18:48	Al. Powstańców Ślaskich	birds	5
+33	KRAKOW	21	1	2019	9:28	Łokietka	domestic cat	5
+34	KRAKOW	21	1	2019	12:21	Białoprądnicka 29	domestic cat	5
+35	KRAKOW	22	1	2019	9:54	Mała Góra/Bieżanowska	domestic cat	3
+36	KRAKOW	22	1	2019	15:29	Pułłanki	red fox	7
+37	KRAKOW	25	1	2019	8:22	Jana Pawła II/Centrum D 8	domestic cat	
+38	KRAKOW	26	1	2019	7:38	Taklińskiego	red fox	8
+39	KRAKOW	26	1	2019	11:31	Jasnogórska/Ojcowska	roe deer	22
+40	KRAKOW	26	1	2019	15:50	Myslenicka	birds	10
+41	KRAKOW	26	1	2019	18:50	Tyniecka  151	wild boar	52
+42	KRAKOW	27	1	2019	6:54	Śliwiaka	roe deer	26
+43	KRAKOW	27	1	2019	19:38	Fredry	domestic cat	2
+44	KRAKOW	28	1	2019	2:54	Rondo Barei/Polsadu	domestic cat	3
+45	KRAKOW	28	1	2019	20:00	Poznańska 43A	domestic cat	3
+46	KRAKOW	29	1	2019	7:44	Igolomska 98	dog	
+47	KRAKOW	29	1	2019	18:29	Bernardyńska 8	domestic cat	3
+48	KRAKOW	29	1	2019	20:22	Mackiewicza 3A	birds	1
+49	KRAKOW	30	1	2019	7:06	Wielicka/wolska	red fox	
+50	KRAKOW	30	1	2019	9:05	Ks. Józefa 253	domestic cat	
+51	KRAKOW	30	1	2019	12:16	Podbipiety 72	wild boar	50
+52	KRAKOW	30	1	2019	15:37	Łokietka	roe deer	
+53	KRAKOW	30	1	2019	16:06	Heila 12	dog	
+54	KRAKOW	31	1	2019	7:24	Dozynkowa 81	roe deer	
+55	KRAKOW	31	1	2019	8:17	Cegielniana 17-19	domestic cat	
+57	KRAKOW	31	1	2019	20:35	Norymberska	hare	
+83	KRAKOW	1	2	2019	7:16	Puszkarska	red fox	7
+84	KRAKOW	1	2	2019	11:06	Stelmachów/Jordanowska	wild boar	15
+85	KRAKOW	1	2	2019	11:12	Ptaszyckiego	red fox	0
+86	KRAKOW	2	1	2019	11:13	Bulwarowa 	domestic cat	2
+87	KRAKOW	2	1	2019	12:45	Nad Fosą 15	wild boar	1
+88	KRAKOW	3	1	2019	11:45	Winnicka	roe deer	25
+89	KRAKOW	4	2	2019	16:41	Dozynkowa 140	roe deer	
+90	KRAKOW	4	2	2019	17:41	Kocmyrzowska 43	red fox	
+91	KRAKOW	5	2	2019	18:09	Dobrego Pasterza przy kościele	domestic cat	
+92	KRAKOW	6	2	2019	8:26	Norymberska	roe deer	12
+93	KRAKOW	6	2	2019	12:13	Gaik	red fox	
+94	KRAKOW	6	2	2019	12:24	Dobrego Pasterza	domestic cat	5
+95	KRAKOW	6	2	2019	19:01	Kamieńskiego	domestic cat	2
+96	KRAKOW	6	2	2019	22:35	Sdomestic catnicka	dog	7
+97	KRAKOW	7	2	2019	7:34	Dunajewskiego	domestic cat	
+98	KRAKOW	7	2	2019	9:47	Al.. Pokoju	domestic cat	3
+99	KRAKOW	7	2	2019	10:56	Rączna 43	domestic cat	5
+100	KRAKOW	7	2	2019	12:52	Dożynkowa	roe deer	20
+101	KRAKOW	7	2	2019	13:35	Fedkowicza	dog	30
+102	KRAKOW	7	2	2019	13:52	hedgehogiorko 12	roe deer	20
+103	KRAKOW	7	2	2019	14:48	hedgehogiorko 	dog	7
+104	KRAKOW	7	2	2019	16:19	Dziekanowicka	roe deer	5
+105	KRAKOW	7	2	2019	19:48	Łutnia	wild boar	80
+106	KRAKOW	7	2	2019	22:30	Powstańców	domestic cat	2
+107	KRAKOW	8	2	2019	7:10	Krzemieniecka 40	roe deer	35
+108	KRAKOW	8	2	2019	13:43	Ks.Józefa	wild boar	11
+109	KRAKOW	8	2	2019	14:17	Łutnia 57	roe deer	20
+110	KRAKOW	8	2	2019	18:14	Lubocka 141	dog	4
+111	KRAKOW	9	2	2019	9:19	Dożynkowa 81	roe deer	13
+112	KRAKOW	9	2	2019	12:27	Golikówka	dog	10
+113	KRAKOW	10	2	2019	13:15	Glinik 45	domestic cat	4
+114	KRAKOW	11	2	2019	11:31	Ptaszyckiego	red fox	7
+115	KRAKOW	12	2	2019	7:48	Pszczelna 13	domestic cat	
+116	KRAKOW	12	2	2019	11:40	Ptaszyckiego 25	red fox	
+117	KRAKOW	12	2	2019	18:19	Dożynkowa 81	roe deer	29
+118	KRAKOW	12	2	2019	20:10	Raczkiewicza	wild boar	39
+119	KRAKOW	13	2	2019	9:10	Krowoderska 74	domestic cat	5
+120	KRAKOW	13	2	2019	18:32	Rączna/Półłanki	roe deer	30
+121	KRAKOW	13	2	2019	19:06	Balicka	domestic cat	3
+122	KRAKOW	14	2	2019	12:28	Warzewskiego 46	domestic cat	
+123	KRAKOW	14	2	2019	13:33	Tamana Dąbiu/Bulwary	birds	3
+124	KRAKOW	14	2	2019	14:06	Bazarowa 1	birds	7
+125	KRAKOW	15	2	2019	15:08	Piasta Kołodzieja	domestic cat	5
+126	KRAKOW	15	2	2019	20:16	Łokietka/Chabrowa	domestic cat	
+127	KRAKOW	17	2	2019	19:13	Chaubińskiego 132	roe deer	15
+128	KRAKOW	18	2	2019	7:53	Podbipięty 51	hare	4
+129	KRAKOW	18	2	2019	15:15	Unruga 12A	birds	1
+130	KRAKOW	18	2	2019	18:25	Niewodniczańskiego 122	roe deer	25
+131	KRAKOW	18	2	2019	19:58	Igolomska	wild boar	70
+132	KRAKOW	18	2	2019	21:24	Łokietka	roe deer	
+133	KRAKOW	19	2	2019	6:05	Wadowicka	domestic cat	5
+134	KRAKOW	19	2	2019	19:46	Ceipłownicza	roe deer	25
+135	KRAKOW	20	2	2019	6:20	Pilotów2	domestic cat	
+136	KRAKOW	20	2	2019	21:37	Ks.jozefa/Białe Wzgorze	domestic cat	2
+137	KRAKOW	20	2	2019	23:58	Glogera 22	roe deer	25
+138	KRAKOW	21	2	2019	9:34	Orla 14	domestic cat	5
+139	KRAKOW	21	2	2019	12:50	Podole 	red fox	7
+140	KRAKOW	21	2	2019	15:52	Na Zrębie	domestic cat	5
+141	KRAKOW	22	2	2019	12:52	Ludwinowska	weasel	1
+142	KRAKOW	23	2	2019	11:30	Młodości 9	domestic cat	2
+143	KRAKOW	24	2	2019	9:14	Igołomska/Brzeska	domestic cat	2
+144	KRAKOW	25	2	2019	6:13	Saska	domestic cat	5
+145	KRAKOW	25	2	2019	9:54	Beskidzka 2	domestic cat	3
+146	KRAKOW	25	2	2019	14:11	Dożynkowa 52-54	domestic cat	5
+147	KRAKOW	25	2	2019	14:45	Augustińska	domestic cat	5
+148	KRAKOW	25	2	2019	17:10	Pod mostem Piłsudskiego	birds	0
+149	KRAKOW	25	2	2019	18:43	Słomczyńskiego 12	domestic cat	2
+150	KRAKOW	25	2	2019	19:09	Tyniecka	wild boar	32
+151	KRAKOW	26	2	2019	9:51	Słowackiego 4	domestic cat	5
+152	KRAKOW	26	2	2019	10:54	Brzeska 13	roe deer	25
+153	KRAKOW	26	2	2019	14:33	Rybitwy	domestic cat	5
+154	KRAKOW	26	2	2019	16:33	Przy Moście	roe deer	12
+155	KRAKOW	26	2	2019	19:12	Tyniecka 115	wild boar	160
+156	KRAKOW	27	2	2019	7:25	Brzeska	domestic cat	3
+157	KRAKOW	27	2	2019	7:25	Brzeska	dog	5
+158	KRAKOW	27	2	2019	9:47	Prosta/Wielicka	dog	21
+159	KRAKOW	27	2	2019	16:12	Jasnogórska	domestic cat	5
+160	KRAKOW	28	2	2019	9:36	Kamieńskiego	dog	5
+202	KRAKOW	1	3	2019	6:44	29 red foxtopada	red fox	4
+203	KRAKOW	1	3	2019	12:29	Kobierzyńska 168	domestic cat	5
+204	KRAKOW	1	3	2019	12:49	Biskupińska 13	birds	
+205	KRAKOW	1	3	2019	13:13	Monte Cassino 17	domestic cat	5
+206	KRAKOW	1	3	2019	17:36	Olszanicka 	domestic cat	0
+207	KRAKOW	1	3	2019	18:57	Tetmajera/Łupaszki	domestic cat	0
+208	KRAKOW	1	3	2019	19:17	Brozka	domestic cat	0
+209	KRAKOW	1	3	2019	21:59	Wielicka	dog	30
+210	KRAKOW	2	3	2019	20:40	Górników 3	birds	2
+211	KRAKOW	2	3	2019	20:40	Górników 3	birds	2
+212	KRAKOW	3	3	2019	15:26	Sołtysowska 47	domestic cat	3
+213	KRAKOW	3	3	2019	16:39	Norymberska	roe deer	22
+214	KRAKOW	4	3	2019	9:05	Łowińskiego 5	domestic cat	5
+215	KRAKOW	4	3	2019	13:58	Borsucza	domestic cat	5
+216	KRAKOW	4	3	2019	16:48	Wielicka	domestic cat	
+217	KRAKOW	5	3	2019	7:35	Malborska/Kamieńskiego	domestic cat	
+218	KRAKOW	6	3	2019	8:57	 Most Zwierzyniecki	domestic cat	5
+219	KRAKOW	6	3	2019	18:01	Moczydło 18	domestic cat	5
+220	KRAKOW	6	3	2019	21:43	Czarnowiejska	domestic cat	3
+221	KRAKOW	7	3	2019	8:04	Kocmyrzowska	domestic cat	5
+222	KRAKOW	7	3	2019	10:13	Glinik 92A	domestic cat	5
+223	KRAKOW	7	3	2019	17:09	Olszanicka/Pod skałą 	dog	14
+224	KRAKOW	7	3	2019	18:06	Łużycka 105	dog	15
+225	KRAKOW	8	3	2019	7:31	Z. Herberta	domestic cat	
+226	KRAKOW	8	3	2019	9:06	Dobrowolskiego 29-31	domestic cat	
+227	KRAKOW	8	3	2019	12:45	Mogilska	red fox	
+228	KRAKOW	8	3	2019	14:29	Przy Arce 13	birds	1
+229	KRAKOW	9	3	2019	7:21	Ks.Józefa 220	roe deer	29
+230	KRAKOW	9	3	2019	10:04	Dereniowa 2	birds	1
+231	KRAKOW	9	3	2019	11:29	Winnicka 40	domestic cat	
+232	KRAKOW	9	3	2019	12:32	Kapelanka	birds	
+233	KRAKOW	9	3	2019	13:00	Plażowa	wild boar	15
+234	KRAKOW	9	3	2019	18:20	Dobrowolskiego29A	domestic cat	3
+235	KRAKOW	9	3	2019	21:23	Wielicka	hedgehog	
+236	KRAKOW	10	3	2019	13:33	Olszanicka	badger	7
+237	KRAKOW	10	3	2019	13:33	Ks.Turka 19	birds	
+238	KRAKOW	10	3	2019	13:46	Bujaka/Herberta	domestic cat	3
+239	KRAKOW	11	3	2019	0:48	Nowohucka	roe deer	1
+240	KRAKOW	11	3	2019	12:32	Płoszczyny 1	domestic cat	5
+241	KRAKOW	12	3	2019	11:25	Christo-Botewa	roe deer	18
+242	KRAKOW	12	3	2019	12:29	Piasta kolodzieja45	domestic cat	
+243	KRAKOW	12	3	2019	16:48	Odmętowa	birds	0
+244	KRAKOW	13	3	2019	1:02	CHristo-Botewa/Śliwiaka	roe deer	20
+245	KRAKOW	13	3	2019	7:37	Lubocka 125	domestic cat	5
+246	KRAKOW	13	3	2019	7:37	Lubocka 125	domestic cat	5
+247	KRAKOW	13	3	2019	7:37	MałaGora/Smolenia	domestic cat	5
+248	KRAKOW	13	3	2019	8:22	Myśliwska12	birds	1
+249	KRAKOW	13	3	2019	10:09	Kobierzyńska166	domestic cat	5
+250	KRAKOW	13	3	2019	10:09	Solidarności	hare	5
+251	KRAKOW	13	3	2019	12:52	Mała góra	domestic cat	5
+252	KRAKOW	13	3	2019	14:42	Kobierzyńska 168	stone marten	5
+253	KRAKOW	13	3	2019	20:27	Pilotów	domestic cat	3
+254	KRAKOW	14	3	2019	7:38	Monte Cassino 	domestic cat	5
+255	KRAKOW	14	3	2019	7:51	Armii Krajowej	domestic cat	
+256	KRAKOW	14	3	2019	9:47	Jasnogórska	domestic cat	5
+257	KRAKOW	14	3	2019	12:12	Armii Krajowej	domestic cat	5
+258	KRAKOW	15	3	2019	17:28	Igolomska/Nenckiego	red fox	5
+259	KRAKOW	16	3	2019	17:18	Widnokrąg	domestic cat	3
+260	KRAKOW	16	3	2019	18:12	Dożynkowa	roe deer	20
+261	KRAKOW	16	3	2019	20:39	Powstańców 16	domestic cat	3
+262	KRAKOW	17	3	2019	10:42	Brzeska 5	roe deer	28
+263	KRAKOW	17	3	2019	15:21	Polna/Spacerowa	dog	15
+264	KRAKOW	17	3	2019	16:17	Poznańska 10	birds	1
+265	KRAKOW	17	3	2019	19:16	Zapolskiej 10A	squirrel	1
+266	KRAKOW	18	3	2019	9:52	Krzemieniecka	roe deer	24
+267	KRAKOW	18	3	2019	11:24	Lublańska/Cembrowa	domestic cat	5
+268	KRAKOW	18	3	2019	12:55	Niska 16	domestic cat	5
+269	KRAKOW	18	3	2019	18:15	Tyniecka 118	wild boar	36
+270	KRAKOW	19	3	2019	8:29	Brzeska 	roe deer	21
+271	KRAKOW	19	3	2019	10:31	Rawild boarowskiego	domestic cat	
+272	KRAKOW	19	3	2019	18:16	Mostgrunwaldzki	birds	5
+273	KRAKOW	20	3	2019	9:05	Kordiana 25	domestic cat	
+274	KRAKOW	20	3	2019	9:48	Zielony most	squirrel	
+275	KRAKOW	20	3	2019	14:22	Polnych Kwiatów	wild boar	110
+276	KRAKOW	20	3	2019	17:00	Mogilska	domestic cat	7
+277	KRAKOW	20	3	2019	19:01	Na kozłówce 27	domestic cat	3
+278	KRAKOW	20	3	2019	21:23	Narcyza Wiatra	roe deer	25
+279	KRAKOW	21	3	2019	1:06	Ks.Józefa	badger	7
+280	KRAKOW	21	3	2019	6:31	Christo Botewa	domestic cat	5
+281	KRAKOW	21	3	2019	8:58	Kobierzyńska 166A	domestic cat	5
+282	KRAKOW	21	3	2019	16:27	Pankiewicza	roe deer	7
+283	KRAKOW	22	3	2019	8:59	Łokietka13	domestic cat	5
+284	KRAKOW	22	3	2019	10:36	Wielicka 28	domestic cat	5
+285	KRAKOW	22	3	2019	15:16	Rawild boarowskiego	domestic cat	5
+286	KRAKOW	22	3	2019	18:53	Glogera/Żwirowa	roe deer	20
+287	KRAKOW	22	3	2019	21:22	Herberta	hedgehog	1
+288	KRAKOW	23	3	2019	9:17	Prokocimska	domestic cat	2
+289	KRAKOW	23	3	2019	11:00	Kosocicka90A	hare	5
+290	KRAKOW	23	3	2019	14:12	Balicka 276	domestic cat	3
+291	KRAKOW	23	3	2019	16:41	Zielony Most	squirrel	1
+292	KRAKOW	23	3	2019	17:10	Pachońskiego	squirrel	
+293	KRAKOW	23	3	2019	20:50	Kodomestic catowska	roe deer	29
+294	KRAKOW	24	3	2019	6:24	Ks.Józefa	roe deer	24
+295	KRAKOW	25	3	2019	5:58	Powstańców Śląska	domestic cat	5
+296	KRAKOW	25	3	2019	8:22	Kobierzyńska/Sasiedzka	domestic cat	1
+297	KRAKOW	25	3	2019	13:15	Norymberska	roe deer	
+298	KRAKOW	25	3	2019	15:55	Kosocicka98A	domestic cat	
+299	KRAKOW	25	3	2019	17:23	Sodowa	red fox	12
+300	KRAKOW	25	3	2019	18:47	Bogucianaka	domestic cat	
+301	KRAKOW	26	3	2019	6:50	Centralna	domestic cat	3
+302	KRAKOW	26	3	2019	7:58	Nowosądecka31	domestic cat	5
+303	KRAKOW	26	3	2019	8:25	Nazałączu/Sołtysowska	domestic cat	3
+304	KRAKOW	27	3	2019	5:51	Kobierzyńska/Zalesie	domestic cat	3
+305	KRAKOW	27	3	2019	7:16	Żelazowskiego35	domestic cat	3
+306	KRAKOW	27	3	2019	10:59	Kuźnicy Kołłątajowskiej	hedgehog	1
+307	KRAKOW	27	3	2019	11:16	Św.Jacka	red fox	7
+308	KRAKOW	27	3	2019	11:17	Lubostroń 37	birds	1
+309	KRAKOW	27	3	2019	14:10	Łokietka	domestic cat	5
+310	KRAKOW	27	3	2019	14:59	Park Aleskandry	dog	
+311	KRAKOW	27	3	2019	16:07	Grębałowska 1 B	domestic cat	5
+312	KRAKOW	27	3	2019	21:56	Balanówka15	dog	38
+313	KRAKOW	28	3	2019	10:13	Zakopiańska	domestic cat	5
+314	KRAKOW	28	3	2019	12:07	Urocze1	birds	
+315	KRAKOW	28	3	2019	12:07	Park Aleksandry	dog	18
+316	KRAKOW	28	3	2019	12:54	Urocze1 zagarażami	birds	1
+317	KRAKOW	28	3	2019	16:51	Krowoderskich Zuchów 16	birds	1
+318	KRAKOW	28	3	2019	21:47	Bieżanowska 40	domestic cat	0
+319	KRAKOW	29	3	2019	8:12	Tyniecka 	domestic cat	5
+320	KRAKOW	29	3	2019	12:24	J.Fedkowicza 6	domestic cat	5
+321	KRAKOW	29	3	2019	15:40	Pachońskiego 6	domestic cat	5
+322	KRAKOW	29	3	2019	21:56	Brzeska	roe deer	25
+323	KRAKOW	30	3	2019	9:57	Praska62	hedgehog	1
+324	KRAKOW	30	3	2019	11:43	Stojałowskiego	domestic cat	3
+325	KRAKOW	30	3	2019	11:43	Ks. Józefa	birds	
+326	KRAKOW	30	3	2019	18:04	Węgrzynowicka 10	domestic cat	3
+327	KRAKOW	30	3	2019	21:24	Taklińskiego 83	roe deer	
+328	KRAKOW	30	3	2019	21:45	Ks.Józefa54A	roe deer	
+329	KRAKOW	30	3	2019	21:47	Dąbrowskiego 23	domestic cat	
+330	KRAKOW	31	3	2019	1:03	Nowohucka	domestic cat	
+331	KRAKOW	31	3	2019	6:18	Bora Komorowskiego	jackal	0
+332	KRAKOW	31	3	2019	6:47	Ofiar Katynia	domestic cat	
+333	KRAKOW	31	3	2019	9:06	Komandosów2	domestic cat	
+334	KRAKOW	31	3	2019	11:20	Albertyńskie14A	birds	
+335	KRAKOW	31	3	2019	17:03	Petrazyckiego	roe deer	
+336	KRAKOW	31	3	2019	18:38	Podgórki29	domestic cat	
+337	KRAKOW	31	3	2019	18:38	Podgórki	domestic cat	
+338	KRAKOW	31	3	2019	19:56	Siarczanogorska 26 I	roe deer	
+339	KRAKOW	31	3	2019	21:26	Jodłowa18	domestic cat	
+549	KRAKOW	1	4	2019	6:55	Bora - Komorowskiego	red fox	3
+550	KRAKOW	1	4	2019	7:26	Mistrzejowicka	domestic cat	5
+551	KRAKOW	1	4	2019	8:35	Centrum B 4	birds	
+552	KRAKOW	1	4	2019	10:14	Borkowska	birds	1
+553	KRAKOW	1	4	2019	17:33	Mireckiego 1	rat	
+554	KRAKOW	1	4	2019	22:55	Podbipiety	red fox	7
+555	KRAKOW	2	4	2019	7:31	Kocmyrzowska	domestic cat	5
+556	KRAKOW	2	4	2019	9:53	Myśliwska53	birds	
+557	KRAKOW	2	4	2019	14:58	Starowolska	roe deer	21
+558	KRAKOW	2	4	2019	16:48	Kocmyrzowska	domestic cat	
+559	KRAKOW	2	4	2019	16:48	Republik iKorczakowskiej 19	birds	1
+560	KRAKOW	2	4	2019	17:30	Sdomestic catnicka	wild boar	61
+561	KRAKOW	2	4	2019	20:50	Ks.Józefa263	roe deer	25
+562	KRAKOW	3	4	2019	11:21	TraktPadogki	roe deer	0
+563	KRAKOW	3	4	2019	13:38	Wielkanocna55	wild boar	
+564	KRAKOW	3	4	2019	14:46	Powstania warszawskiego	domestic cat	7
+565	KRAKOW	4	4	2019	20:00	Glinik124-128	domestic cat	3
+566	KRAKOW	5	4	2019	10:42	Ciepłownicza	roe deer	30
+567	KRAKOW	5	4	2019	10:52	Tyniecka118	wild boar	
+568	KRAKOW	5	4	2019	11:05	Marchołta49	hedgehog	1
+569	KRAKOW	5	4	2019	14:48	Sawiczewskich 46	dog	
+570	KRAKOW	5	4	2019	19:29	Zagrody 21	stone marten	1
+571	KRAKOW	6	4	2019	10:27	Wybickiego	birds	1
+572	KRAKOW	6	4	2019	12:17	Ks.Jozefa	roe deer	36
+573	KRAKOW	7	4	2019	20:44	UjastekMogilski	roe deer	25
+574	KRAKOW	8	4	2019	6:26	Boleslawa śmiałego50	dog	10
+575	KRAKOW	8	4	2019	7:15	Forteczna	badger	7
+576	KRAKOW	8	4	2019	9:51	Matematyków krakowskich162	roe deer	23
+577	KRAKOW	8	4	2019	20:47	Christobotewa	roe deer	20
+578	KRAKOW	8	4	2019	22:16	Mogilska	domestic cat	3
+579	KRAKOW	8	4	2019	22:32	Teligi12	red fox	5
+580	KRAKOW	8	4	2019	23:00	Nowohucka	roe deer	
+581	KRAKOW	9	4	2019	7:26	Pasternik	domestic cat	7
+582	KRAKOW	9	4	2019	9:07	Judyma31	domestic cat	5
+583	KRAKOW	9	4	2019	14:52	Glogera 26	red fox	
+584	KRAKOW	9	4	2019	15:11	Nowohucka	domestic cat	
+585	KRAKOW	9	4	2019	16:34	Podbipięty	roe deer	21
+586	KRAKOW	9	4	2019	21:13	Miłkowskiego 12/Kobierzyńska 68	domestic cat	3
+587	KRAKOW	10	4	2019	6:33	Za górą	roe deer	16
+588	KRAKOW	10	4	2019	9:51	Gaik	red fox	7
+589	KRAKOW	10	4	2019	10:35	Łanowa	rat	1
+590	KRAKOW	10	4	2019	14:49	Konopnickiej	domestic cat	5
+591	KRAKOW	10	4	2019	15:12	Wielicka	domestic cat	5
+592	KRAKOW	10	4	2019	15:39	Wielicka	birds	
+593	KRAKOW	11	4	2019	7:45	Kobierzńska 41	wild boar	15
+594	KRAKOW	11	4	2019	14:56	Trakt Padogki	wild boar	12
+595	KRAKOW	11	4	2019	20:31	Forteczna	domestic cat	3
+596	KRAKOW	11	4	2019	21:02	Św.Teresy	domestic cat	3
+597	KRAKOW	12	4	2019	7:24	Pasternik/Rawild boarowskiego	dog	5
+598	KRAKOW	12	4	2019	7:42	Jasnogórska/Ojcowska	roe deer	26
+599	KRAKOW	12	4	2019	11:44	Kocmyrzowska	domestic cat	5
+600	KRAKOW	12	4	2019	19:19	Zakopiańska 91B	domestic cat	2
+601	KRAKOW	12	4	2019	19:57	Reymonta 23	domestic cat	3
+602	KRAKOW	13	4	2019	7:40	al. Pokoju 30	hedgehog	1
+603	KRAKOW	13	4	2019	8:35	Zawiła	roe deer	32
+604	KRAKOW	13	4	2019	11:39	Bulwar Kurlandzki	birds	1
+605	KRAKOW	13	4	2019	16:18	Gospodarska/Gryczana	domestic cat	3
+606	KRAKOW	13	4	2019	17:59	Darwina 	birds	1
+607	KRAKOW	14	4	2019	8:07	Borkowska	roe deer	33
+608	KRAKOW	14	4	2019	9:53	Ks. Józefa	roe deer	
+609	KRAKOW	14	4	2019	9:55	Podgórki 41A	badger	10
+610	KRAKOW	14	4	2019	11:09	Jana Pawła II 	domestic cat	3
+611	KRAKOW	14	4	2019	12:46	Olszecka	birds	
+612	KRAKOW	14	4	2019	14:31	Hutnicze 6	birds	1
+613	KRAKOW	15	4	2019	1:22	Jodłowa	roe deer	21
+614	KRAKOW	15	4	2019	5:33	Kamieńskiego/W.Slawka	birds	1
+615	KRAKOW	15	4	2019	8:36	Niemcewicza 7	squirrel	1
+616	KRAKOW	15	4	2019	10:14	Brożka	hedgehog	1
+617	KRAKOW	15	4	2019	13:24	Rumiankowa 19	roe deer	30
+618	KRAKOW	15	4	2019	13:31	Gdyńska 19	birds	1
+619	KRAKOW	15	4	2019	13:56	Podbipiety	roe deer	27
+620	KRAKOW	15	4	2019	19:17	Życzkowskiego/Commarch	birds	1
+621	KRAKOW	15	4	2019	20:51	Sdomestic catnicka 172	domestic cat	1
+622	KRAKOW	16	4	2019	10:25	B.Śmiałego 51	roe deer	21
+623	KRAKOW	16	4	2019	10:58	Kocmyrzowska 7	dog	12
+624	KRAKOW	16	4	2019	11:03	Tyniecka/NadCzerną	roe deer	
+625	KRAKOW	16	4	2019	19:26	Odmętowa	roe deer	13
+626	KRAKOW	16	4	2019	23:53	Konopnickiej	domestic cat	1
+627	KRAKOW	17	4	2019	6:33	Morcinka	beaver	
+628	KRAKOW	17	4	2019	8:46	Sielska	hedgehog	1
+629	KRAKOW	17	4	2019	17:31	Bobrzyńskiego 41	domestic cat	5
+630	KRAKOW	18	4	2019	8:12	Myśliwska 48	squirrel	1
+631	KRAKOW	18	4	2019	11:59	Mięsowicza/Sosnowiecka	domestic cat	5
+632	KRAKOW	18	4	2019	12:55	Grąby 8	domestic cat	5
+633	KRAKOW	18	4	2019	15:53	Glinik124-128	domestic cat	5
+634	KRAKOW	19	4	2019	7:33	Śliwiaka	roe deer	
+635	KRAKOW	20	4	2019	10:25	Boruty-Spiechowicza	hedgehog	
+636	KRAKOW	20	4	2019	10:40	Wyżynna	roe deer	25
+637	KRAKOW	20	4	2019	17:15	Mistrzejowicka 49B	rat	1
+638	KRAKOW	20	4	2019	18:17	Kołaczkowskiego	roe deer	
+639	KRAKOW	20	4	2019	22:03	Branicka	roe deer	
+640	KRAKOW	21	4	2019	9:01	Brzeska/Zakępie	roe deer	25
+641	KRAKOW	21	4	2019	9:01	Tyniecka	roe deer	
+642	KRAKOW	21	4	2019	11:20	Szlak 67	dog	3
+643	KRAKOW	21	4	2019	12:26	Pomykany 12	domestic cat	3
+644	KRAKOW	21	4	2019	20:57	Łowińskiegio	roe deer	25
+645	KRAKOW	22	4	2019	14:30	Centralna 63	domestic cat	3
+646	KRAKOW	23	4	2019	1:55	Kocmyrzowska	roe deer	35
+647	KRAKOW	23	4	2019	10:31	Nowohucka	domestic cat	5
+648	KRAKOW	23	4	2019	14:17	Łokietka	roe deer	25
+649	KRAKOW	23	4	2019	20:55	Za górą	roe deer	15
+650	KRAKOW	24	4	2019	6:03	Wyki	hedgehog	1
+651	KRAKOW	24	4	2019	11:28	Drożyska 106	roe deer	21
+652	KRAKOW	24	4	2019	12:07	Forteczna 84	domestic cat	5
+653	KRAKOW	24	4	2019	15:55	Tyniecka 149	roe deer	25
+654	KRAKOW	24	4	2019	23:40	Półłanki	red fox	10
+655	KRAKOW	25	4	2019	6:19	Stella-Sawickiego	birds	0
+656	KRAKOW	25	4	2019	9:44	Wielkanocna 55	roe deer	20
+657	KRAKOW	25	4	2019	12:52	Podgórki 52	domestic cat	5
+658	KRAKOW	25	4	2019	15:04	Dożynkowa	badger	12
+659	KRAKOW	25	4	2019	18:57	Zielińskiej 20	hedgehog	1
+660	KRAKOW	26	4	2019	1:57	Al. Pokoju 	roe deer	25
+661	KRAKOW	26	4	2019	6:56	Krasińskiego	hedgehog	
+662	KRAKOW	26	4	2019	7:22	Nowohucka/Saska	dog	
+663	KRAKOW	26	4	2019	7:50	Wroclawska 91	stone marten	
+664	KRAKOW	26	4	2019	8:14	Wrobela 101 A	domestic cat	5
+665	KRAKOW	26	4	2019	15:14	Mydlnicka 5	red fox	7
+666	KRAKOW	26	4	2019	16:44	Rydla 11	birds	1
+667	KRAKOW	26	4	2019	18:37	Mieczykowa 2	domestic cat	3
+668	KRAKOW	26	4	2019	19:12	Jasnogorska 11	dog	7
+669	KRAKOW	26	4	2019	19:32	Chałubińskiego	wild boar	0
+670	KRAKOW	27	4	2019	0:01	Rzepakowa/Karasiówka	domestic cat	2
+671	KRAKOW	27	4	2019	0:35	Zakopiańska 116	hedgehog	2
+672	KRAKOW	27	4	2019	0:35	Zakopiańska 116	hedgehog	2
+673	KRAKOW	27	4	2019	8:29	Królowej Jadwigi 248	domestic cat	3
+674	KRAKOW	27	4	2019	9:49	al. Pokoju 	roe deer	22
+675	KRAKOW	27	4	2019	22:14	Brzeska	roe deer	23
+676	KRAKOW	29	4	2019	7:42	Ks. Józefa 249	roe deer	
+677	KRAKOW	29	4	2019	8:16	Wielicka 250	roe deer	20
+678	KRAKOW	29	4	2019	9:34	Zakopiańska 99/101	domestic cat	5
+679	KRAKOW	30	4	2019	0:44	Facimiech	beaver	
+680	KRAKOW	30	4	2019	13:26	Tysiąclecia 29-32	squirrel	
+737	KRAKOW	1	5	2019	2:23	Pułłanki	roe deer	25
+738	KRAKOW	1	5	2019	12:30	Słomiana 25	domestic cat	5
+739	KRAKOW	2	5	2019	7:34	Opolska 14A	birds	1
+740	KRAKOW	2	5	2019	10:04	Kołaczkowskiego	deer	
+741	KRAKOW	2	5	2019	11:19	Maisnera	birds	1
+742	KRAKOW	2	5	2019	13:55	Teligi 6	hedgehog	1
+743	KRAKOW	3	5	2019	0:33	Lublańska 34	domestic cat	3
+744	KRAKOW	3	5	2019	3:10	Myślenicka 7 8	roe deer	25
+745	KRAKOW	3	5	2019	13:03	Olszanicka 	dog	12
+746	KRAKOW	3	5	2019	13:03	Olszanicka 	dog	12
+747	KRAKOW	3	5	2019	16:59	Batalionu skala Ak/Krowoderskich Zuchów	birds	1
+748	KRAKOW	3	5	2019	19:55	Smoleńskiego/Poronińska	roe deer	20
+749	KRAKOW	3	5	2019	21:19	29-red foxtopada	domestic cat	
+750	KRAKOW	4	5	2019	2:40	Al.Pokoju/Widok	roe deer	
+751	KRAKOW	4	5	2019	11:16	Oboźna 19	birds	1
+752	KRAKOW	4	5	2019	16:08	Wadowska	roe deer	15
+753	KRAKOW	4	5	2019	17:59	Dybowskiego 16	roe deer	20
+754	KRAKOW	5	5	2019	7:11	Przewóz /Szczecińska	deer	25
+755	KRAKOW	5	5	2019	9:10	Stella-Sawickiego	dog	1
+756	KRAKOW	5	5	2019	9:59	Jasnogórska	roe deer	25
+757	KRAKOW	5	5	2019	15:55	Rozrywki	birds	1
+758	KRAKOW	5	5	2019	23:13	hedgehogynowa 11	wild boar	3
+759	KRAKOW	6	5	2019	7:34	Rybitwy 42	domestic cat	
+760	KRAKOW	6	5	2019	9:48	Forteczna 59	domestic cat	5
+761	KRAKOW	6	5	2019	13:18	Kołaczkowskiego	deer	19
+762	KRAKOW	6	5	2019	15:45	Maisnera/Chałpnika	birds	1
+763	KRAKOW	6	5	2019	16:25	przystanek prokocim szpital,torowisko	birds	
+764	KRAKOW	6	5	2019	18:16	Willowe 8	domestic cat	1
+765	KRAKOW	7	5	2019	8:01	Wadowska 145B	roe deer	25
+766	KRAKOW	7	5	2019	15:22	Luborzycka 8	roe deer	21
+767	KRAKOW	7	5	2019	15:50	Wielicka/Facimiech	beaver	16
+768	KRAKOW	7	5	2019	16:12	Moniuszki 2A	birds	1
+769	KRAKOW	8	5	2019	5:36	Głowackiego	hedgehog	1
+770	KRAKOW	8	5	2019	8:01	Piastowska	birds	0
+771	KRAKOW	8	5	2019	9:30	Kościelnicka 16A	domestic cat	
+772	KRAKOW	8	5	2019	10:02	Kostaneckiego	red fox	7
+773	KRAKOW	8	5	2019	18:17	Działowskiego 	roe deer	25
+774	KRAKOW	8	5	2019	18:17	Działowskiego 	roe deer	25
+775	KRAKOW	8	5	2019	18:17	Działowskiego 	roe deer	25
+776	KRAKOW	8	5	2019	18:17	Działowskiego 	roe deer	25
+777	KRAKOW	8	5	2019	18:17	Działowskiego 	roe deer	25
+778	KRAKOW	8	5	2019	22:42	Christo Botewa	roe deer	20
+779	KRAKOW	9	5	2019	1:03	Lubocka 64	roe deer	25
+780	KRAKOW	9	5	2019	9:22	Kolna	roe deer	189
+781	KRAKOW	9	5	2019	9:22	Morcinka/roe deer	roe deer	12
+782	KRAKOW	9	5	2019	9:56	Benedyktowicza	roe deer	7
+783	KRAKOW	9	5	2019	21:15	Stachiewicza 3	birds	1
+784	KRAKOW	10	5	2019	8:13	Włoska  1	hedgehog	1
+785	KRAKOW	10	5	2019	16:31	Mazowiecka 38	birds	1
+786	KRAKOW	10	5	2019	18:28	Podbipięty	dog	
+787	KRAKOW	10	5	2019	21:49	Ks.Jozefa 129	roe deer	28
+788	KRAKOW	11	5	2019	9:25	Kościuszkowskie 3	domestic cat	
+789	KRAKOW	11	5	2019	11:38	Ks.Jozefa  ogródki działkowe	roe deer	37
+790	KRAKOW	11	5	2019	16:10	Łokietka 243	roe deer	20
+791	KRAKOW	11	5	2019	23:15	Jancarza 	domestic cat	0
+792	KRAKOW	12	5	2019	8:59	Dybowskiego 2	domestic cat	4
+793	KRAKOW	12	5	2019	9:48	Powstania Warszawskiego	domestic cat	3
+794	KRAKOW	12	5	2019	11:09	Na Skarpie 30	birds	1
+795	KRAKOW	12	5	2019	12:45	Wł. Łokietka 331	roe deer	20
+797	KRAKOW	12	5	2019	17:17	Brodowicza 5	hedgehog	1
+798	KRAKOW	12	5	2019	21:12	Jasnogorska	roe deer	11
+799	KRAKOW	14	5	2019	11:06	Dworna	hedgehog	1
+800	KRAKOW	15	5	2019	19:01	Gaik	roe deer	
+801	KRAKOW	16	5	2019	5:50	Łowińskiego	roe deer	20
+802	KRAKOW	16	5	2019	5:50	Łokietka 344	roe deer	23
+803	KRAKOW	16	5	2019	7:00	Łokietka 114	hedgehog	1
+804	KRAKOW	16	5	2019	9:22	Forteczna	hedgehog	1
+805	KRAKOW	16	5	2019	20:06	Pronaszków	wild boar	81
+806	KRAKOW	17	5	2019	11:29	Splawy 2H	domestic cat	
+807	KRAKOW	17	5	2019	12:05	Starowolska 174	hedgehog	1
+808	KRAKOW	17	5	2019	19:51	Kosocicka	domestic cat	1
+809	KRAKOW	18	5	2019	8:44	Junacka/Kasztanowa	birds	1
+810	KRAKOW	18	5	2019	9:37	Kamieńskiego	domestic cat	3
+811	KRAKOW	18	5	2019	12:52	Zagorze 11A	roe deer	15
+812	KRAKOW	18	5	2019	13:49	Dr Judyma 36-38	birds	1
+813	KRAKOW	19	5	2019	11:14	Ks.Józefa 228	domestic cat	4
+814	KRAKOW	19	5	2019	21:32	Bartla	domestic cat	
+815	KRAKOW	20	5	2019	6:27	G.Morcinka	beaver	15
+816	KRAKOW	20	5	2019	23:35	Gliniana 15	hedgehog	1
+817	KRAKOW	21	5	2019	7:41	Brucknera 30-35	domestic cat	5
+818	KRAKOW	21	5	2019	8:41	Tatarkowa 12	roe deer	20
+819	KRAKOW	21	5	2019	8:41	Ćwiklińskiej/Telimeny	domestic cat	1
+820	KRAKOW	21	5	2019	10:00	Ks.Józefa 255	wild boar	16
+821	KRAKOW	21	5	2019	20:24	Mała Gora/Heleny	dog	10
+822	KRAKOW	22	5	2019	7:16	Brzeska	hare	5
+823	KRAKOW	22	5	2019	9:09	Park Krowoderski/Łokietka	birds	1
+824	KRAKOW	22	5	2019	13:56	Kuźnicy Kołłątajowskiej 2-5	squirrel	1
+825	KRAKOW	22	5	2019	17:59	Leśna19	wild boar	54
+826	KRAKOW	23	5	2019	10:57	Kamieńskiego	domestic cat	0
+827	KRAKOW	23	5	2019	12:49	Kamieńskiego	domestic cat	3
+828	KRAKOW	23	5	2019	18:02	Grażyny	domestic cat	3
+829	KRAKOW	23	5	2019	22:45	Sdomestic catnicka	domestic cat	
+830	KRAKOW	24	5	2019	4:32	Królowej Jadwigi	red fox	15
+831	KRAKOW	24	5	2019	5:47	Chełmska	birds	
+832	KRAKOW	24	5	2019	16:32	Zielony Most 10	hedgehog	1
+833	KRAKOW	24	5	2019	16:32	Kobierzyńska	domestic cat	3
+834	KRAKOW	24	5	2019	18:52	Chełmska 5	birds	1
+835	KRAKOW	24	5	2019	18:52	Makowa 12	rat	1
+836	KRAKOW	24	5	2019	21:21	Łowińskiego	roe deer	0
+837	KRAKOW	24	5	2019	21:38	Pienińska	domestic cat	4
+838	KRAKOW	24	5	2019	23:41	Kąpielowa 75	domestic cat	3
+839	KRAKOW	25	5	2019	10:10	Zagrody 19-21	domestic cat	1
+840	KRAKOW	25	5	2019	11:49	Łowińskiego 4	roe deer	26
+841	KRAKOW	25	5	2019	21:16	Bulwar Czerwiński	beaver	25
+842	KRAKOW	25	5	2019	23:03	Forteczna	domestic cat	3
+843	KRAKOW	26	5	2019	8:35	Pietruszyńskiego 5	hedgehog	1
+844	KRAKOW	26	5	2019	10:52	Zawila	roe deer	25
+845	KRAKOW	26	5	2019	12:24	Królowej Jadwigi 167	domestic cat	3
+846	KRAKOW	26	5	2019	20:53	Chełmska 	dog	
+847	KRAKOW	27	5	2019	0:04	W.Slawka	hedgehog	1
+848	KRAKOW	27	5	2019	15:58	Kozia  22	domestic cat	5
+849	KRAKOW	28	5	2019	22:07	Ks.Józefa 	red fox	2
+850	KRAKOW	29	5	2019	12:51	Drużbacka 30A	birds	5
+851	KRAKOW	29	5	2019	21:36	Morcinka	roe deer	30
+852	KRAKOW	30	5	2019	5:50	Stojałowskiego /Cechowa	red fox	5
+853	KRAKOW	30	5	2019	8:12	Podbipiety	dog	5
+855	KRAKOW	30	5	2019	11:16	Ks.Józefa 285A	red fox	
+856	KRAKOW	30	5	2019	21:51	Zakopiańska/Góra Borkowska	red fox	
+857	KRAKOW	31	5	2019	11:43	Kurczaba 1	hedgehog	
+858	KRAKOW	31	5	2019	16:16	Babińskiego 55	domestic cat	
+908	KRAKOW	1	6	2019	6:49	Ojcowska 172	domestic cat	
+909	KRAKOW	1	6	2019	7:33	Trakt Padogki	birds	1
+910	KRAKOW	1	6	2019	8:29	Brzozowa 22	birds	
+911	KRAKOW	1	6	2019	22:41	Dobrego Pasterza	birds	1
+912	KRAKOW	2	6	2019	7:00	Jurajska	roe deer	20
+913	KRAKOW	2	6	2019	7:38	29-red foxtopada	domestic cat	3
+914	KRAKOW	2	6	2019	10:36	Wrocławska	domestic cat	3
+915	KRAKOW	2	6	2019	19:21	Bartnika 10	roe deer	25
+916	KRAKOW	2	6	2019	21:54	Łowińskiego	roe deer	25
+917	KRAKOW	3	6	2019	6:21	Praska	hedgehog	1
+918	KRAKOW	3	6	2019	11:10	Bujaka 12	domestic cat	
+919	KRAKOW	3	6	2019	16:22	Petrażyckiego	birds	34
+920	KRAKOW	3	6	2019	18:22	Podłużna	red fox	
+921	KRAKOW	3	6	2019	23:43	Ks. Józefa	domestic cat	5
+922	KRAKOW	4	6	2019	17:23	Kąpielowa 51	domestic cat	3
+923	KRAKOW	4	6	2019	22:37	Gaik/Jasnogórska	roe deer	
+924	KRAKOW	5	6	2019	19:30	Podbipięty	wild boar	5
+925	KRAKOW	5	6	2019	21:30	Chałubińskiego 90A	domestic cat	3
+926	KRAKOW	6	6	2019	6:37	Kocmyrzowska	domestic cat	2
+927	KRAKOW	6	6	2019	12:42	Puszkarska	birds	1
+928	KRAKOW	6	6	2019	15:53	Zakole 19	domestic cat	5
+929	KRAKOW	6	6	2019	18:14	Igolomska	badger	10
+930	KRAKOW	6	6	2019	23:19	Kuryłowicza	badger	7
+931	KRAKOW	7	6	2019	6:29	Zgody 10	hare	5
+932	KRAKOW	7	6	2019	11:00	Zamłynie 30D	birds	1
+933	KRAKOW	7	6	2019	13:15	Kasztanowa 70	roe deer	34
+934	KRAKOW	8	6	2019	8:54	Teligi	birds	1
+935	KRAKOW	8	6	2019	8:56	Sebastiana 17	domestic cat	
+936	KRAKOW	8	6	2019	10:00	Stella sawickiego	hedgehog	1
+937	KRAKOW	8	6	2019	14:02	Medweckiego 	domestic cat	4
+938	KRAKOW	8	6	2019	17:39	Chełmska 12	domestic cat	3
+939	KRAKOW	8	6	2019	21:35	Ks. Józefa	wild boar	15
+940	KRAKOW	9	6	2019	6:24	Komandosów 14	domestic cat	2
+941	KRAKOW	9	6	2019	9:20	Rzepakowa 29	roe deer	43
+942	KRAKOW	9	6	2019	9:42	Drużbackiej 6-8	domestic cat	3
+943	KRAKOW	9	6	2019	11:08	Żeńców /Gliniana	rat	1
+944	KRAKOW	9	6	2019	11:09	Górali 6	birds	1
+945	KRAKOW	10	6	2019	11:04	Skowronia / Helcmana	domestic cat	1
+946	KRAKOW	10	6	2019	14:21	Kawiory	hedgehog	1
+947	KRAKOW	10	6	2019	19:53	Łaczka 50/52	domestic cat	
+948	KRAKOW	10	6	2019	22:35	Zbrojarzy	domestic cat	3
+949	KRAKOW	11	6	2019	8:44	Ks.Józefa	hedgehog	1
+950	KRAKOW	11	6	2019	13:13	Dunin/Wąsowicza	domestic cat	1
+951	KRAKOW	11	6	2019	14:43	Bieżanowska 91	hedgehog	1
+952	KRAKOW	11	6	2019	14:49	Moniuszki 2A	birds	1
+953	KRAKOW	11	6	2019	19:03	SM Prokocim	birds	1
+954	KRAKOW	12	6	2019	6:49	Krzemieniecka 8	domestic cat	1
+955	KRAKOW	12	6	2019	7:49	Grzegorzecka	hare	1
+956	KRAKOW	12	6	2019	14:03	Borsucza 5	roe deer	
+957	KRAKOW	13	6	2019	7:56	Armii Krajowej	hedgehog	1
+958	KRAKOW	13	6	2019	7:56	Sdomestic catnicka 177	domestic cat	1
+959	KRAKOW	13	6	2019	9:16	Kwiecista/Kobierzyńska	domestic cat	
+960	KRAKOW	13	6	2019	13:24	Kwiecista	domestic cat	1
+961	KRAKOW	13	6	2019	14:29	Jarzębiny 31	hedgehog	1
+962	KRAKOW	14	6	2019	6:42	Petrażyckiego	dog	1
+963	KRAKOW	14	6	2019	8:02	Na Wzgorzach 5	birds	1
+964	KRAKOW	14	6	2019	8:03	Tyniecka	red fox	1
+965	KRAKOW	14	6	2019	8:44	Podbipięty	squirrel	1
+966	KRAKOW	14	6	2019	9:10	Półłanki	hedgehog	1
+967	KRAKOW	14	6	2019	13:32	Bochenka 24	birds	1
+968	KRAKOW	14	6	2019	14:26	Niezapominajek	domestic cat	1
+969	KRAKOW	15	6	2019	5:17	Pasternik	roe deer	
+970	KRAKOW	15	6	2019	5:53	Nowohucka	domestic cat	3
+971	KRAKOW	15	6	2019	5:53	Stella sawickiego	red fox	2
+972	KRAKOW	15	6	2019	6:13	Lublańska	domestic cat	1
+973	KRAKOW	15	6	2019	9:30	Warzewskiego 39	birds	1
+974	KRAKOW	15	6	2019	10:28	Bulwar kurlandzki	birds	
+975	KRAKOW	15	6	2019	17:16	Krowoderskich Zuchów 15B	birds	1
+976	KRAKOW	16	6	2019	5:31	Nad Drwinią 10	domestic cat	3
+977	KRAKOW	16	6	2019	6:24	Golikówka	hedgehog	1
+978	KRAKOW	16	6	2019	8:55	Przylasek rusiecki od strony ul. Rzepakowej	roe deer	40
+979	KRAKOW	16	6	2019	11:28	Zapolskiej 27	birds	1
+980	KRAKOW	16	6	2019	14:06	Szafrana 5A	birds	1
+981	KRAKOW	16	6	2019	14:15	Ptaszyckiego 9	dog	37
+982	KRAKOW	16	6	2019	22:04	Olszanicka	wild boar	25
+983	KRAKOW	16	6	2019	22:52	Olszanicka 	wild boar	22
+984	KRAKOW	16	6	2019	23:21	Rumiankowa	roe deer	28
+985	KRAKOW	17	6	2019	5:44	Al.. Jana Pawła II 178	domestic cat	2
+986	KRAKOW	17	6	2019	6:07	Zarzyckiego	roe deer	25
+987	KRAKOW	17	6	2019	8:06	Mirowska	wild boar	7
+988	KRAKOW	17	6	2019	8:30	Herlinga-Grudzińskiego	birds	
+989	KRAKOW	17	6	2019	9:02	Olszanicka 5 A	domestic cat	3
+990	KRAKOW	17	6	2019	12:00	Sdomestic catnicka 177	domestic cat	
+991	KRAKOW	17	6	2019	17:25	Majora 7	hedgehog	1
+992	KRAKOW	17	6	2019	17:41	Kocmyrzowska 6	roe deer	15
+993	KRAKOW	17	6	2019	18:50	Opty 3	red fox	5
+994	KRAKOW	17	6	2019	22:44	estakada Opolska/Combrowa	domestic cat	3
+995	KRAKOW	18	6	2019	0:10	Klasztorna 31A	domestic cat	3
+996	KRAKOW	18	6	2019	12:17	Królowej Jadwigi 119	birds	1
+997	KRAKOW	18	6	2019	17:38	Armii Krajowej	domestic cat	3
+998	KRAKOW	18	6	2019	21:45	Norymberska	wild boar	5
+999	KRAKOW	19	6	2019	0:40	Gaik	red fox	10
+1000	KRAKOW	19	6	2019	10:48	Biskupińska 13	red fox	7
+1001	KRAKOW	19	6	2019	20:45	Piastów 44	domestic cat	3
+1002	KRAKOW	20	6	2019	17:09	Dworzec towarowy	hedgehog	0
+1003	KRAKOW	21	6	2019	5:14	Piastowska	red fox	0
+1004	KRAKOW	21	6	2019	7:31	Teligi 8	domestic cat	0
+1005	KRAKOW	21	6	2019	7:50	Bujaka 12	domestic cat	0
+1006	KRAKOW	21	6	2019	12:35	aleksandry 11	domestic cat	1
+1007	KRAKOW	21	6	2019	19:07	Podmokła	domestic cat	4
+1008	KRAKOW	21	6	2019	20:49	Kapelanka	birds	1
+1009	KRAKOW	21	6	2019	22:58	Podgorska	roe deer	14
+1010	KRAKOW	22	6	2019	8:15	Norymberska	wild boar	
+1011	KRAKOW	22	6	2019	12:49	Kuryłowicza 98 -100	domestic cat	4
+1012	KRAKOW	22	6	2019	18:14	Dyw 303 2	hare	5
+1013	KRAKOW	23	6	2019	5:36	Moniuszki 15	domestic cat	
+1014	KRAKOW	23	6	2019	12:51	Sawy-Calińskiego	domestic cat	3
+1015	KRAKOW	23	6	2019	17:26	Dozynkowa 106	horse	141
+1016	KRAKOW	23	6	2019	18:30	Kielecka/Brodowicza	domestic cat	1
+1017	KRAKOW	23	6	2019	18:30	Powstańców 	domestic cat	3
+1018	KRAKOW	24	6	2019	1:00	Grudzińskiego	roe deer	12
+1019	KRAKOW	24	6	2019	1:44	Ks.Jozefa/Benedydomestic catowicza	domestic cat	3
+1020	KRAKOW	24	6	2019	8:56	Winnicka	red fox	3
+1021	KRAKOW	24	6	2019	11:50	Brodowicza/Olszańska	domestic cat	3
+1022	KRAKOW	25	6	2019	18:08	Lecha	dog	1
+1023	KRAKOW	25	6	2019	22:04	Królowej Jadwigi/Krańcowa	domestic cat	3
+1024	KRAKOW	26	6	2019	17:02	Centrum c 9	birds	1
+1025	KRAKOW	26	6	2019	18:36	Miłkowskiego 3	birds	1
+1026	KRAKOW	27	6	2019	7:07	Jana Pawła II/Centrum A 11	domestic cat	5
+1027	KRAKOW	27	6	2019	7:29	Jasnogórska	roe deer	25
+1028	KRAKOW	27	6	2019	12:05	Na Wrzosach 19	domestic cat	3
+1029	KRAKOW	28	6	2019	10:52	Wiosenna/Junacka	domestic cat	1
+1030	KRAKOW	28	6	2019	12:09	Krowoderskich Zuchów 21	birds	1
+1031	KRAKOW	28	6	2019	12:21	Mirowska	domestic cat	0
+1032	KRAKOW	28	6	2019	19:39	Jesionowa 8	squirrel	1
+1033	KRAKOW	29	6	2019	8:32	Estońska 14	domestic cat	
+1035	KRAKOW	29	6	2019	11:30	Kobierzyńska/Kwiecista	domestic cat	3
+1036	KRAKOW	29	6	2019	13:16	Wciąska	roe deer	25
+1037	KRAKOW	30	6	2019	11:27	Kaczńcowa 	rat	4
+1038	KRAKOW	30	6	2019	12:51	Konopnickiej	domestic cat	3
+1039	KRAKOW	30	6	2019	13:46	Kaczeńcowa	rat	5
+1040	KRAKOW	30	6	2019	18:26	Ptaszyckiego/ S7	red fox	7
+1041	KRAKOW	30	6	2019	21:32	Rzepakowa 	roe deer	0
+58	NIEPOLOMICE	2	1	2019	21:48	Portowa34A	birds	25
+59	NIEPOLOMICE	11	1	2019	6:57	Wroniarka 2-2A	roe deer	26
+60	NIEPOLOMICE	11	1	2019	14:14	3 Maja	domestic cat	5
+61	NIEPOLOMICE	13	1	2019	10:10	3 Maja	domestic cat	2
+62	NIEPOLOMICE	16	1	2019	14:50	Niepołomicka 35	roe deer	
+63	NIEPOLOMICE	20	1	2019	12:16	Staniątki	roe deer	
+64	NIEPOLOMICE	21	1	2019	16:59	strażnica NIEPOLOMICE	birds	
+65	NIEPOLOMICE	28	1	2019	9:16	Wola Batorska 887	roe deer	25
+66	NIEPOLOMICE	31	1	2019	20:13	Wielicka,niepolomice	domestic cat	3
+161	NIEPOLOMICE	2	1	2019	11:57	Chobot 40	roe deer	20
+162	NIEPOLOMICE	15	2	2019	7:38	Pogdrabie,Krakowska	birds	5
+163	NIEPOLOMICE	19	2	2019	15:33	Wimera	roe deer	23
+164	NIEPOLOMICE	20	2	2019	18:05	Wola Batorska 142	roe deer	25
+165	NIEPOLOMICE	21	2	2019	9:54	Zakrzów	dog	18
+166	NIEPOLOMICE	21	2	2019	16:03	Wimera	domestic cat	4
+167	NIEPOLOMICE	22	2	2019	9:51	Droga Królewska	roe deer	27
+168	NIEPOLOMICE	22	2	2019	11:08	Wola Zabierzowska 297	roe deer	
+169	NIEPOLOMICE	23	2	2019	6:44	Ochmanów 46	roe deer	20
+170	NIEPOLOMICE	25	2	2019	7:06	WolaZabierzowska	roe deer	25
+171	NIEPOLOMICE	25	2	2019	20:01	Droga Królewska	roe deer	
+172	NIEPOLOMICE	28	2	2019	8:31	Zakrzów 242	roe deer	20
+173	NIEPOLOMICE	28	2	2019	8:32	Zawiła 20	red fox	5
+173	NIEPOLOMICE	28	2	2019	8:32	Zawiła 20	red fox	5
+173	NIEPOLOMICE	28	2	2019	8:32	Zawiła 20	red fox	6
+340	NIEPOLOMICE	1	3	2019	5:44	Zabierzowska29, NIEPOLOMICE	roe deer	
+341	NIEPOLOMICE	3	3	2019	16:24	Partyzantów 44	domestic cat	2
+342	NIEPOLOMICE	4	3	2019	16:27	Zabierzów Bocheński 369	domestic cat	30
+343	NIEPOLOMICE	4	3	2019	17:21	Rumiankowa	dog	
+344	NIEPOLOMICE	5	3	2019	7:13	Zabierzówbocheński	roe deer	
+345	NIEPOLOMICE	6	3	2019	12:22	Kościuszki	domestic cat	5
+346	NIEPOLOMICE	6	3	2019	14:30	Zagorze17	red fox	7
+347	NIEPOLOMICE	8	3	2019	12:25	Kątowa 2	roe deer	30
+348	NIEPOLOMICE	8	3	2019	17:36	Wielicka Niepolomice	roe deer	29
+349	NIEPOLOMICE	11	3	2019	11:22	Kościuszki	domestic cat	5
+350	NIEPOLOMICE	11	3	2019	20:53	Zakrzów	roe deer	25
+351	NIEPOLOMICE	14	3	2019	8:55	Topolowa,NIEPOLOMICE	roe deer	25
+352	NIEPOLOMICE	23	3	2019	10:17	Brzezieul. Polesie	roe deer	7
+353	NIEPOLOMICE	23	3	2019	20:04	Czerwonych Beretów/Wrzosowa	roe deer	30
+354	NIEPOLOMICE	30	3	2019	13:44	Staniątki 205	deer	74
+681	NIEPOLOMICE	1	4	2019	8:34	Czerwonych Beretów	roe deer	30
+682	NIEPOLOMICE	1	4	2019	10:15	Wola Batorska221	domestic cat	5
+683	NIEPOLOMICE	1	4	2019	10:15	ZabierzówBoheński	domestic cat	5
+684	NIEPOLOMICE	2	4	2019	7:37	Podlęska , NIEPOLOMICE	wild boar	
+685	NIEPOLOMICE	2	4	2019	13:04	Podłęże	wild boar	
+686	NIEPOLOMICE	4	4	2019	11:49	Zakrzów	wild boar	74
+687	NIEPOLOMICE	4	4	2019	21:29	Krakowska, NIEPOLOMICE	roe deer	25
+688	NIEPOLOMICE	8	4	2019	17:08	Krakowska, NIEPOLOMICE	roe deer	27
+689	NIEPOLOMICE	10	4	2019	6:30	Krakowska NIEPOLOMICE	dog	
+690	NIEPOLOMICE	13	4	2019	5:33	Grabska 282	roe deer	23
+691	NIEPOLOMICE	14	4	2019	9:29	Brzeska/Kolejowa	roe deer	28
+692	NIEPOLOMICE	15	4	2019	15:55	Wimmera	roe deer	25
+693	NIEPOLOMICE	18	4	2019	10:19	Wola Batorska 190	roe deer	25
+694	NIEPOLOMICE	24	4	2019	10:24	Zabierzowska 25,niepolomice	roe deer	25
+695	NIEPOLOMICE	25	4	2019	8:22	Komisariat niepolomice	dog	16
+696	NIEPOLOMICE	25	4	2019	18:15	NIEPOLOMICEdroga na Węgrzce	wild boar	41
+697	NIEPOLOMICE	27	4	2019	1:45	Ochmanów	wild boar	55
+698	NIEPOLOMICE	28	4	2019	18:47	Staniątki 875,ul.Lesna	birds	10
+699	NIEPOLOMICE	30	4	2019	8:21	Zabierzowska 36E	roe deer	30
+700	NIEPOLOMICE	30	4	2019	10:25	Zabierzów Bocheński 411	roe deer	30
+859	NIEPOLOMICE	3	5	2019	19:56	Wola Batorska	roe deer	
+860	NIEPOLOMICE	4	5	2019	9:50	Zabierzowska 28	red fox	4
+861	NIEPOLOMICE	6	5	2019	7:25	Wola Batorska	roe deer	
+862	NIEPOLOMICE	6	5	2019	12:35	Wola Batorska 818	roe deer	25
+863	NIEPOLOMICE	6	5	2019	18:02	Wimmera	roe deer	25
+864	NIEPOLOMICE	8	5	2019	9:31	Podłęze 112	birds	1
+865	NIEPOLOMICE	8	5	2019	16:15	Wola Batorska 272	dog	10
+866	NIEPOLOMICE	8	5	2019	21:16	Chobot	roe deer	0
+867	NIEPOLOMICE	9	5	2019	10:05	Podłęże	domestic cat	
+868	NIEPOLOMICE	10	5	2019	6:17	Kwitkowskiego,Podłęże	roe deer	35
+869	NIEPOLOMICE	10	5	2019	9:38	Wimmera 67	roe deer	
+870	NIEPOLOMICE	13	5	2019	7:29	Wola Batorska 662	roe deer	
+871	NIEPOLOMICE	13	5	2019	11:57	Wola Zabierzowska 22	roe deer	34
+873	NIEPOLOMICE	17	5	2019	12:01	Młyńska 7,niepolomice	birds	
+874	NIEPOLOMICE	20	5	2019	10:28	Jasna 10,niepolomice	roe deer	
+875	NIEPOLOMICE	23	5	2019	22:51	Kwiatowa 1,Niepolomice	roe deer	20
+876	NIEPOLOMICE	28	5	2019	8:52	Wola Batorska 845	birds	1
+877	NIEPOLOMICE	30	5	2019	7:05	Ochmanów 109	roe deer	25
+878	NIEPOLOMICE	30	5	2019	7:29	Krakowska 15-17	domestic cat	3
+1042	NIEPOLOMICE	5	6	2019	10:32	Zakrzów	roe deer	20
+1043	NIEPOLOMICE	5	6	2019	17:26	Wola Batorska 463	goat	10
+1044	NIEPOLOMICE	6	6	2019	10:46	Podłęże	moose	
+1045	NIEPOLOMICE	8	6	2019	12:16	Kolejowa 8A	domestic cat	3
+1046	NIEPOLOMICE	8	6	2019	13:00	Zabierzów bocheński	domestic cat	3
+1047	NIEPOLOMICE	10	6	2019	8:11	Wola Batorska 463	birds	
+1048	NIEPOLOMICE	12	6	2019	7:49	Grabska	red fox	2
+1050	NIEPOLOMICE	15	6	2019	8:00	Komisariat Policji	roe deer	3
+1051	NIEPOLOMICE	17	6	2019	13:00	Piękna 5, Niepolomice	roe deer	
+1052	NIEPOLOMICE	17	6	2019	13:47	wola batorska	red fox	
+1053	NIEPOLOMICE	18	6	2019	18:17	Zabierzów Bocheński 34	domestic cat	2
+1054	NIEPOLOMICE	19	6	2019	12:30	Wola Batorska vis avis 132	red fox	5
+1055	NIEPOLOMICE	19	6	2019	12:30	Sportowa	domestic cat	1
+1056	NIEPOLOMICE	24	6	2019	9:47	Wola batorska	wild boar	
+1057	NIEPOLOMICE	24	6	2019	10:57	Strażnica niepolomice	birds	
+1058	NIEPOLOMICE	26	6	2019	11:34	Wola Batorska 2	domestic cat	12
+1059	NIEPOLOMICE	26	6	2019	13:00	Dębowa Niepolomice	roe deer	7
+1060	NIEPOLOMICE	26	6	2019	14:48	Staniątecka	domestic cat	
+1049	NIEPOLOMICE	13	6	2019	21:37	Zakrzowiec	roe deer	6
+67	WIELICZKA	2	1	2019	9:47	Koźmice Wielkie	wild boar	92
+68	WIELICZKA	7	1	2019	17:26	Dobczycka	roe deer	25
+69	WIELICZKA	7	1	2019	18:39	Węgrzce Wielkie	roe deer	25
+70	WIELICZKA	9	1	2019	11:21	Koźmice wielkie 370	roe deer	30
+71	WIELICZKA	11	1	2019	15:22	Niepołomska 11	red fox	7
+72	WIELICZKA	14	1	2019	6:59	Powstania Styczniowego	roe deer	25
+73	WIELICZKA	18	1	2019	9:12	Wygoda 40	domestic cat	
+74	WIELICZKA	18	1	2019	9:12	Węgrzce Wielkie 328	roe deer	35
+75	WIELICZKA	18	1	2019	18:40	Wygoda 28	domestic cat	4
+76	WIELICZKA	23	1	2019	17:45	Grottgera	domestic cat	9
+77	WIELICZKA	26	1	2019	11:30	Krzyszkowicka/Kasztanowa	domestic cat	3
+78	WIELICZKA	29	1	2019	11:07	Lednica Gorna 221	roe deer	13
+79	WIELICZKA	29	1	2019	15:00	Sułkow 255	roe deer	15
+80	WIELICZKA	30	1	2019	7:15	Grabie 70	roe deer	25
+81	WIELICZKA	31	1	2019	15:30	Dębowskiego	domestic cat	
+82	WIELICZKA	31	1	2019	18:35	Pawlikowice	dog	
+174	WIELICZKA	2	2	2019	7:26	WIELICZKA rondo od strony Krzyszkowic	domestic cat	5
+175	WIELICZKA	2	2	2019	7:55	Podstolice	roe deer	12
+176	WIELICZKA	2	2	2019	12:09	Sadowa 20-20A,WIELICZKA	dog	3
+177	WIELICZKA	2	2	2019	12:39	Narutowicza,WIELICZKA	domestic cat	2
+178	WIELICZKA	5	2	2019	9:49	Pawlikowice	roe deer	25
+179	WIELICZKA	6	2	2019	8:42	Sygneczów	roe deer	7
+180	WIELICZKA	6	2	2019	8:42	Pawlikowice 202	dog	20
+181	WIELICZKA	6	2	2019	9:18	Pawlikowice	domestic cat	
+182	WIELICZKA	6	2	2019	10:44	Narutowicza/Bogucka 	domestic cat	5
+183	WIELICZKA	6	2	2019	17:49	Pawlikowice	domestic cat	5
+184	WIELICZKA	8	2	2019	12:29	Klasnieńska	domestic cat	5
+185	WIELICZKA	10	2	2019	8:13	Niepolomska32	roe deer	26
+186	WIELICZKA	10	2	2019	9:11	Podstolice 	red fox	7
+187	WIELICZKA	10	2	2019	18:50	Brzegi	roe deer	22
+188	WIELICZKA	11	2	2019	10:55	Wegrzce wielkie 296	roe deer	23
+189	WIELICZKA	12	2	2019	11:04	Krakowska 16	domestic cat	25
+190	WIELICZKA	13	2	2019	15:47	Czarnochowska 21	domestic cat	
+191	WIELICZKA	14	2	2019	10:51	Siercza	domestic cat	5
+192	WIELICZKA	14	2	2019	12:05	Pawlikowice	domestic cat	5
+193	WIELICZKA	14	2	2019	16:39	Kodomestic catów	domestic cat	5
+194	WIELICZKA	18	2	2019	12:54	Gorzków	roe deer	18
+195	WIELICZKA	19	2	2019	5:52	Krzyszkowicka/Różana	roe deer	19
+196	WIELICZKA	19	2	2019	7:48	Warzyvka	birds	5
+197	WIELICZKA	21	2	2019	7:04	Narutowicza	domestic cat	5
+198	WIELICZKA	25	2	2019	10:37	Dębowa/Wygoda	domestic cat	5
+199	WIELICZKA	25	2	2019	16:23	Mietniowska,WIELICZKA	beaver	12
+200	WIELICZKA	27	2	2019	17:38	Koźmice	red fox	7
+201	WIELICZKA	27	2	2019	17:49	Długa 23C	red fox	7
+355	WIELICZKA	4	3	2019	18:37	Kodomestic catów	domestic cat	
+356	WIELICZKA	4	3	2019	18:37	Kodomestic catów	domestic cat	
+357	WIELICZKA	5	3	2019	6:40	Narutowicza	domestic cat	2
+358	WIELICZKA	5	3	2019	6:40	Powstańców Styczniowych	roe deer	22
+359	WIELICZKA	6	3	2019	13:40	Golkowice	domestic cat	5
+360	WIELICZKA	6	3	2019	15:20	Narutowicza	domestic cat	5
+361	WIELICZKA	7	3	2019	8:37	Koźmice Wielkie109A	domestic cat	
+362	WIELICZKA	8	3	2019	8:17	Kosiby	domestic cat	5
+363	WIELICZKA	8	3	2019	17:17	Asnyka	domestic cat	3
+364	WIELICZKA	12	3	2019	7:58	Gorzków	roe deer	30
+365	WIELICZKA	13	3	2019	11:22	os.Szymanowskiego 17	dog	26
+366	WIELICZKA	16	3	2019	10:44	Wincentego Pola 18	domestic cat	3
+367	WIELICZKA	16	3	2019	15:41	Chorągwica	domestic cat	2
+368	WIELICZKA	17	3	2019	12:01	Koźmice Wielkie	roe deer	25
+369	WIELICZKA	18	3	2019	11:12	Grabie 61	roe deer	30
+370	WIELICZKA	18	3	2019	15:24	Warzycka 37	domestic cat	5
+371	WIELICZKA	19	3	2019	15:41	Warzycka 37	domestic cat	5
+372	WIELICZKA	21	3	2019	9:39	Długa 45 A	domestic cat	5
+373	WIELICZKA	23	3	2019	10:28	Warzycka37	birds	5
+374	WIELICZKA	24	3	2019	8:50	Brzegi	roe deer	26
+375	WIELICZKA	29	3	2019	20:18	KoźmiceWielkie 48	roe deer	30
+701	WIELICZKA	1	4	2019	8:26	Brzegi/Grabie	roe deer	
+702	WIELICZKA	2	4	2019	10:57	Grabie	roe deer	30
+703	WIELICZKA	2	4	2019	16:03	Kodomestic catów	domestic cat	5
+704	WIELICZKA	3	4	2019	14:51	Dobranowice 229	dog	28
+705	WIELICZKA	3	4	2019	17:00	Warzycka 37	roe deer	12
+706	WIELICZKA	4	4	2019	20:24	Mała wieś	roe deer	
+707	WIELICZKA	5	4	2019	18:19	Koźmice Wielkie 50	roe deer	30
+708	WIELICZKA	6	4	2019	12:15	Warzycka37	roe deer	36
+709	WIELICZKA	8	4	2019	11:00	Janowice	dog	14
+710	WIELICZKA	8	4	2019	14:36	Warzycka	domestic cat	4
+711	WIELICZKA	9	4	2019	11:06	Ochota 3-5	domestic cat	5
+712	WIELICZKA	9	4	2019	12:31	Koźmice Wielkie 50	roe deer	20
+713	WIELICZKA	10	4	2019	6:28	Piłsudskiego	domestic cat	
+714	WIELICZKA	10	4	2019	9:43	Koźmice Wielkie 50	domestic cat	5
+715	WIELICZKA	11	4	2019	16:03	Pawlikowice 57	red fox	12
+716	WIELICZKA	14	4	2019	8:52	Kopernika 82	domestic cat	3
+717	WIELICZKA	15	4	2019	7:32	Koźmice Wielkie 	domestic cat	5
+718	WIELICZKA	15	4	2019	14:41	Krzyszkowice, WIELICZKA	domestic cat	5
+719	WIELICZKA	15	4	2019	18:15	Koźmice Wielkie 109	domestic cat	3
+720	WIELICZKA	16	4	2019	13:03	Janowice 10	red fox	7
+721	WIELICZKA	16	4	2019	16:28	Podstolice	roe deer	30
+722	WIELICZKA	17	4	2019	14:48	Dobczycka 	domestic cat	3
+723	WIELICZKA	17	4	2019	16:12	Brzegi	red fox	7
+724	WIELICZKA	17	4	2019	18:51	Legionów WIELICZKA	domestic cat	4
+725	WIELICZKA	17	4	2019	20:56	Siercza	domestic cat	3
+726	WIELICZKA	18	4	2019	7:54	DW 964 Mała Wieś	roe deer	
+727	WIELICZKA	18	4	2019	16:17	Gorzków 255	roe deer	25
+728	WIELICZKA	19	4	2019	13:00	Czarnochowice 154	domestic cat	5
+729	WIELICZKA	19	4	2019	13:44	Grabie	roe deer	
+730	WIELICZKA	19	4	2019	13:44	Grabie	red fox	25
+731	WIELICZKA	20	4	2019	9:03	Piłsudskiego, WIELICZKA	domestic cat	3
+732	WIELICZKA	20	4	2019	9:03	Strażnica	roe deer	25
+733	WIELICZKA	23	4	2019	9:02	Ochota 3-5	domestic cat	5
+734	WIELICZKA	23	4	2019	10:59	Rondo Światowych Dni Mlodzierzy	roe deer	34
+735	WIELICZKA	26	4	2019	18:48	Węgrzcewielkie	roe deer	23
+736	WIELICZKA	28	4	2019	7:36	Zabawa	roe deer	12
+879	WIELICZKA	1	5	2019	7:37	Dębskiego 57	domestic cat	5
+880	WIELICZKA	1	5	2019	7:37	Kraśnieńska 48	wild boar	98
+881	WIELICZKA	1	5	2019	16:55	Wąska	roe deer	7
+882	WIELICZKA	3	5	2019	15:41	Warzycka	domestic cat	5
+883	WIELICZKA	4	5	2019	15:15	Sadowa 101 A	roe deer	15
+884	WIELICZKA	5	5	2019	5:30	Koźmice Wielkie 22	roe deer	20
+885	WIELICZKA	6	5	2019	15:59	Kodomestic catow 2	domestic cat	3
+886	WIELICZKA	6	5	2019	20:45	Koźmice Wielkie 	domestic cat	3
+887	WIELICZKA	7	5	2019	12:34	Koźmice Wielkie	domestic cat	5
+888	WIELICZKA	8	5	2019	7:51	Podstolice	birds	3
+889	WIELICZKA	9	5	2019	16:03	Grabówki 304	roe deer	25
+890	WIELICZKA	10	5	2019	13:48	Chorągwica 218	roe deer	
+891	WIELICZKA	13	5	2019	13:07	Podstolice	dog	16
+892	WIELICZKA	16	5	2019	9:15	Węgrzce Wielkie/Zakrzów	roe deer	25
+893	WIELICZKA	18	5	2019	8:31	Mietniów 114	red fox	6
+894	WIELICZKA	20	5	2019	10:55	Niepolomska 17A	domestic cat	3
+895	WIELICZKA	21	5	2019	6:35	Siercza	roe deer	22
+896	WIELICZKA	21	5	2019	7:46	Golkowice 228A	roe deer	25
+897	WIELICZKA	23	5	2019	18:40	Warzycka 37	domestic cat	5
+898	WIELICZKA	24	5	2019	7:34	Kasztanowe	domestic cat	5
+899	WIELICZKA	24	5	2019	9:08	Śledziejowice 381	roe deer	25
+900	WIELICZKA	24	5	2019	11:38	Zabawa 166	birds	75
+901	WIELICZKA	25	5	2019	11:11	Koźmice Małe	domestic cat	4
+902	WIELICZKA	27	5	2019	5:32	Węgrzce wielkie Grabie	roe deer	
+903	WIELICZKA	28	5	2019	12:05	Grabówki 89	roe deer	
+904	WIELICZKA	29	5	2019	13:52	Grabówki 89	birds	21
+905	WIELICZKA	31	5	2019	10:33	Węgrzce Wielkie 373	domestic cat	5
+906	WIELICZKA	31	5	2019	10:33	Zakrzów	domestic cat	5
+907	WIELICZKA	31	5	2019	19:34	Brzegi	beaver	5
+1061	WIELICZKA	25	6	2019	9:17	Gorzków 140	domestic cat	3
+1062	WIELICZKA	2	6	2019	20:28	Piłsudskiego 67	domestic cat	3
+1063	WIELICZKA	4	6	2019	12:49	Warzycka 37	hare	5
+1064	WIELICZKA	6	6	2019	8:11	Klaśnieńska	roe deer	17
+1065	WIELICZKA	6	6	2019	19:58	Krzyszkowicka	domestic cat	3
+1066	WIELICZKA	8	6	2019	8:37	Dębowskiego	hare	4
+1067	WIELICZKA	10	6	2019	15:06	Warzycka 37	roe deer	8
+1068	WIELICZKA	10	6	2019	16:54	Węgrzece Wielkie	wild boar	30
+1069	WIELICZKA	11	6	2019	19:16	Morawica	roe deer	10
+1070	WIELICZKA	12	6	2019	7:21	Podstolice 251	roe deer	7
+1071	WIELICZKA	13	6	2019	10:07	Warzycka 37	hare	1
+1072	WIELICZKA	14	6	2019	9:54	Koźmice Bugaj	roe deer	10
+1073	WIELICZKA	14	6	2019	16:08	Grottgera	domestic cat	3
+1074	WIELICZKA	17	6	2019	10:52	Kraszewskiego	domestic cat	5
+1075	WIELICZKA	17	6	2019	20:55	koźmice Wielkie 	domestic cat	2
+1076	WIELICZKA	19	6	2019	13:59	Wawrzyńca 27	roe deer	7
+1077	WIELICZKA	20	6	2019	7:57	Mietniów 75	roe deer	14
+1078	WIELICZKA	22	6	2019	9:47	Sułków 132	domestic cat	4
+1079	WIELICZKA	23	6	2019	10:39	Puławskiego	red fox	6
+1080	WIELICZKA	25	6	2019	14:28	Strażnica WIELICZKA	birds	
+1081	WIELICZKA	25	6	2019			roe deer	15
+1082	WIELICZKA	27	6	2019	11:36	Chrobrego 9-11	domestic cat	3
+1083	WIELICZKA	27	6	2019	12:16	Kościuszki 36B	birds	1
+1084	WIELICZKA	27	6	2019	19:08	Park i stawobok policji	beaver	
+1085	WIELICZKA	28	6	2019	10:28	Podleśna, WIELICZKA	domestic cat	1
+1086	WIELICZKA	28	6	2019	10:28	Podleśna, WIELICZKA	domestic cat	1
+1087	WIELICZKA	28	6	2019	19:59	Kościuszki, WIELICZKA	birds	3
+1088	WIELICZKA	22	6	2019	13:16	Grabowki 125	domestic cat	4
+95	WIELICZKA	2	1	2019	15:54	Krzyszkowicka	domestic cat	0
+56	KRAKOW	31	1	2018	19:05	Wielicka	dog	20
+1	KRAKOW	2	1	2020	13:56	Petrażyckiego	dog	7
+2	KRAKOW	2	1	2020	14:51	Nad Czerną 7	domestic cat	0
+3	KRAKOW	3	1	2020	7:16	Malborska/Macedońska	hare	2
+4	KRAKOW	3	1	2020	9:48	Rączna 11C	roe deer	15
+5	KRAKOW	3	1	2020	15:25	Jancarza	domestic cat	
+6	KRAKOW	3	1	2020	17:09	Pasternik/Tetmajera	domestic cat	3
+7	KRAKOW	3	1	2020	19:24	Powstańców 62A	domestic cat	3
+8	KRAKOW	4	1	2020	10:30	Jancarza	domestic cat	3
+9	KRAKOW	4	1	2020	13:08	Przegorzalska	roe deer	15
+10	KRAKOW	4	1	2020	15:51	Libertowska	red fox	8
+11	KRAKOW	5	1	2020	0:09	Niepokalanej Panny Marii 121	roe deer	26
+12	KRAKOW	5	1	2020	15:31	Zaporowskiej	domestic cat	5
+13	KRAKOW	5	1	2020	20:47	Barycka	roe deer	25
+14	KRAKOW	6	1	2020	12:55	Kocmyrzowska Fort Grębałów	red fox	
+15	KRAKOW	6	1	2020	14:27	Ziemska 8	roe deer	28
+16	KRAKOW	7	1	2020	14:44	Jakubowskiego 2	roe deer	14
+17	KRAKOW	7	1	2020	15:10	Dożynkowa	roe deer	25
+18	KRAKOW	8	1	2020	8:17	Szwedzka 23	domestic cat	5
+19	KRAKOW	8	1	2020	16:40	Zbrojarzy 	domestic cat	5
+20	KRAKOW	8	1	2020	18:48	Komandosów 16-14	domestic cat	4
+21	KRAKOW	10	1	2020	12:47	Na Stoku 10B	domestic cat	1
+22	KRAKOW	10	1	2020	17:06	Kołodziejska 15	domestic cat	3
+23	KRAKOW	10	1	2020	17:06	Gospodarska	domestic cat	3
+24	KRAKOW	11	1	2020	9:54	Leśna	roe deer	25
+25	KRAKOW	11	1	2020	22:45	Podgórki 11	roe deer	25
+26	KRAKOW	12	1	2020	9:25	Gardowskiego 56	domestic cat	1
+27	KRAKOW	12	1	2020	11:56	Powstańców Wielkopolskich	squirrel	1
+28	KRAKOW	13	1	2020	5:31	Glogera 53	wild boar	90
+29	KRAKOW	13	1	2020	8:59	Warowna/Zagaje	domestic cat	3
+30	KRAKOW	13	1	2020	10:39	Myślenicka 109	dog	14
+31	KRAKOW	13	1	2020	17:58	Lasówka 40	roe deer	25
+32	KRAKOW	13	1	2020	18:09	Reduta	domestic cat	
+33	KRAKOW	13	1	2020	22:17	al. Waszyngtona	roe deer	25
+34	KRAKOW	14	1	2020	11:43	Sdomestic catnicka	wild boar	78
+35	KRAKOW	14	1	2020	12:20	zakole	roe deer	12
+36	KRAKOW	14	1	2020	22:48	Władysława za Skalbmierza 12	domestic cat	2
+37	KRAKOW	15	1	2020	8:30	Krzemieniecka 12	domestic cat	3
+39	KRAKOW	15	1	2020	10:15	Kąpielowa 	roe deer	12
+40	KRAKOW	16	1	2020	9:19	Łużycka 93	domestic cat	3
+41	KRAKOW	17	1	2020	12:26	al. Pokoju (M1)	hare	3
+42	KRAKOW	18	1	2020	10:34	Armii Krajowej 6	domestic cat	2
+43	KRAKOW	18	1	2020	19:16	Brzeska	red fox	7
+44	KRAKOW	19	1	2020	12:46	Rusiecka	roe deer	22
+45	KRAKOW	20	1	2020	8:48	Pułłanki	red fox	12
+46	KRAKOW	20	1	2020	11:02	Wróblewskiego/Pędzichów	domestic cat	3
+47	KRAKOW	21	1	2020	12:42	Pasternik	red fox	7
+48	KRAKOW	21	1	2020	14:47	al. Pokoju 78	domestic cat	3
+49	KRAKOW	21	1	2020	21:22	Drużbackiej	roe deer	20
+50	KRAKOW	21	1	2020	22:07	Smoleńskiego 58	roe deer	25
+51	KRAKOW	22	1	2020	8:39	Kuryłowicza 65	roe deer	21
+52	KRAKOW	22	1	2020	9:31	Kleeberga	birds	1
+53	KRAKOW	22	1	2020	23:07	Norymberska	wild boar	57
+54	KRAKOW	23	1	2020	10:28	Królowej Jadwigi 41-39	squirrel	1
+55	KRAKOW	23	1	2020	19:12	Podbipięty	dog	5
+56	KRAKOW	24	1	2020	5:11	Jasnogórska	wild boar	20
+57	KRAKOW	24	1	2020	12:29	Dobrego Pasterza	domestic cat	3
+58	KRAKOW	24	1	2020	15:15	Wawozowa	domestic cat	3
+59	KRAKOW	24	1	2020	19:03	Kuryłowicza	domestic cat	3
+60	KRAKOW	24	1	2020	19:03	Bolesława Śmiałego	roe deer	25
+61	KRAKOW	24	1	2020	21:11	Pachońskiego	red fox	5
+62	KRAKOW	25	1	2020	8:11	Długoszewskiego	wild boar	140
+63	KRAKOW	25	1	2020	11:05	Godewskiego	red fox	5
+64	KRAKOW	25	1	2020	12:41	Al.. Daszyńskiego	squirrel	1
+65	KRAKOW	25	1	2020	13:22	Kazimierza Wielkiego	domestic cat	3
+66	KRAKOW	26	1	2020	8:37	Golikowka	roe deer	25
+67	KRAKOW	26	1	2020	13:27	Zakopiańska	domestic cat	3
+68	KRAKOW	27	1	2020	12:08	Glinik	domestic cat	5
+69	KRAKOW	28	1	2020	12:15	Tyniecka 203B	wild boar	79
+70	KRAKOW	28	1	2020	12:27	Podgórki tynieckie	roe deer	13
+71	KRAKOW	28	1	2020	19:43	Olszanicka	domestic cat	
+72	KRAKOW	29	1	2020	0:38	Sużyckiego 16	roe deer	
+73	KRAKOW	29	1	2020	6:06	Wielicka	domestic cat	
+74	KRAKOW	29	1	2020	7:29	Romanowicza 6	domestic cat	
+75	KRAKOW	29	1	2020	13:56	Pachońskiego	hare	
+76	KRAKOW	29	1	2020	21:18	Warchałowskiego 46	dog	
+77	KRAKOW	29	1	2020	23:24	Grota Roweckiego/Norymberska	domestic cat	
+78	KRAKOW	30	1	2020	9:56	Tyniecka 118	roe deer	
+79	KRAKOW	30	1	2020	12:00	Kozia 14	hedgehog	
+80	KRAKOW	31	1	2020	7:22	Kuźnicy Kołłątajowskiej	rat	
+81	KRAKOW	31	1	2020	11:36	Królowej Jadwigi/Jesionowa	domestic cat	
+82	KRAKOW	31	1	2020	17:43	Tyniecka 180/Kolna	roe deer	
+114	KRAKOW	1	2	2020	1:48	Lipowskiego 18	domestic cat	3
+115	KRAKOW	1	2	2020	6:25	Bulwarowa / Orkana	red fox	4
+116	KRAKOW	1	2	2020	8:19	KS. Józefa 104	domestic cat	
+117	KRAKOW	1	2	2020	15:24	Padniewskiego 18	wild boar	
+118	KRAKOW	1	2	2020	16:16	Podedworze 12	domestic cat	3
+119	KRAKOW	2	2	2020	5:31	Lublańska	domestic cat	1
+120	KRAKOW	2	2	2020	8:19	Petrażyckiego 68-70	roe deer	25
+121	KRAKOW	2	2	2020	10:12	Bulwary Wislane zakole wisły	wild boar	
+122	KRAKOW	2	2	2020	11:34	Tomickiego 11	wild boar	20
+123	KRAKOW	2	2	2020	20:27	Sużyckiego	roe deer	
+124	KRAKOW	3	2	2020	1:26	Łokietka 266	roe deer	25
+125	KRAKOW	3	2	2020	8:36	Lipska 44	roe deer	23
+126	KRAKOW	5	2	2020	11:54	Bunscha	domestic cat	5
+127	KRAKOW	5	2	2020	16:34	Makowskiego/Modrzejewskiej	domestic cat	3
+128	KRAKOW	6	2	2020	11:55	Junacka 	birds	1
+129	KRAKOW	6	2	2020	18:28	Dauna 37	domestic cat	3
+130	KRAKOW	6	2	2020	20:29	Sużyckiego	roe deer	25
+131	KRAKOW	6	2	2020	20:36	Ćwiklińskiej/Mała  Góra	dog	2
+132	KRAKOW	7	2	2020	21:43	Jasnogórska	red fox	5
+133	KRAKOW	8	2	2020	12:28	Park Jordana popiersie wyszyńskiego	squirrel	
+134	KRAKOW	8	2	2020	12:30	Kozia 30	red fox	7
+135	KRAKOW	8	2	2020	18:08	Suchy Jar	roe deer	20
+136	KRAKOW	9	2	2020	8:08	Sdomestic catnicka	domestic cat	3
+137	KRAKOW	9	2	2020	13:56	Wielicka 20	dog	
+138	KRAKOW	9	2	2020	19:22	Pronaszków/Łódzka	roe deer	20
+139	KRAKOW	10	2	2020	0:24	Olszanicka	roe deer	0
+140	KRAKOW	10	2	2020	7:00	Sdomestic catnicka 101	domestic cat	7
+141	KRAKOW	10	2	2020	7:13	Nowohucka	domestic cat	
+142	KRAKOW	10	2	2020	7:23	Zygmunta starego	domestic cat	
+143	KRAKOW	10	2	2020	7:52	Sdomestic catnicka orlen	badger	
+144	KRAKOW	10	2	2020	10:40	Dukatów 27-29	birds	1
+145	KRAKOW	10	2	2020	11:56	Kocmyrzowska	red fox	12
+146	KRAKOW	10	2	2020	15:20	Królewska 23	birds	1
+147	KRAKOW	11	2	2020	10:18	Czerwonego Prądnika 8	domestic cat	5
+148	KRAKOW	11	2	2020	10:19	Smętna 11A-B	squirrel	1
+149	KRAKOW	11	2	2020	10:32	Podbipięty	wild boar	47
+150	KRAKOW	11	2	2020	15:10	Kuźnicy Kołłątajowskiej 13	rat	1
+151	KRAKOW	11	2	2020	21:05	Tyniecka 43-44	roe deer	25
+152	KRAKOW	12	2	2020	4:05	Conrada	roe deer	25
+153	KRAKOW	12	2	2020	14:22	Hutnicze 14	domestic cat	3
+154	KRAKOW	12	2	2020	22:46	Łokietka 266	roe deer	25
+155	KRAKOW	13	2	2020	9:02	Rybitwy 44-47	domestic cat	3
+156	KRAKOW	14	2	2020	5:19	Bora-Komorowskiego	dog	21
+157	KRAKOW	14	2	2020	6:34	Petrażyckiego 39	roe deer	25
+158	KRAKOW	14	2	2020	12:09	Murarska	domestic cat	3
+159	KRAKOW	14	2	2020	16:22	II Pułku Łotniczego 16-18	birds	2
+160	KRAKOW	14	2	2020	17:03	Darwina/Lubocka	domestic cat	3
+161	KRAKOW	15	2	2020	14:22	Czwartaków 17A	domestic cat	3
+162	KRAKOW	15	2	2020	14:23	Olszanicka	red fox	5
+163	KRAKOW	15	2	2020	17:41	Czysta 17	birds	1
+164	KRAKOW	15	2	2020	19:18	Łokietka 253	domestic cat	3
+165	KRAKOW	16	2	2020	8:49	Wańkowicza	roe deer	12
+166	KRAKOW	16	2	2020	14:47	Blokowa	red fox	4
+167	KRAKOW	16	2	2020	15:10	Żywiecka	dog	5
+168	KRAKOW	16	2	2020	20:02	Sdomestic catnicka 105	domestic cat	2
+169	KRAKOW	16	2	2020	20:58	Cechowa 84-88	domestic cat	
+170	KRAKOW	17	2	2020	8:01	Puszkarska	domestic cat	3
+171	KRAKOW	17	2	2020	8:02	Łużycka 64A	domestic cat	3
+172	KRAKOW	17	2	2020	8:03	Ks. Józefa 255	wild boar	90
+173	KRAKOW	17	2	2020	8:28	Szelinga 48	domestic cat	
+174	KRAKOW	17	2	2020	8:53	Urocze 3	birds	1
+175	KRAKOW	17	2	2020	11:54	Puszkarska	domestic cat	
+176	KRAKOW	17	2	2020	23:49	Igolomska	hare	2
+177	KRAKOW	18	2	2020	11:43	Jana Pawła II	domestic cat	
+178	KRAKOW	18	2	2020	12:24	Sawiczewskich 8	domestic cat	3
+179	KRAKOW	18	2	2020	22:06	Ks. Józefa / Wioślarska	badger	8
+180	KRAKOW	19	2	2020	19:11	Norymberska	roe deer	20
+181	KRAKOW	20	2	2020	12:18	Brzeska 18F	roe deer	25
+182	KRAKOW	20	2	2020	18:25	Prądnicka 65	domestic cat	3
+183	KRAKOW	21	2	2020	5:22	Słowackiego/Mazowicka	domestic cat	
+184	KRAKOW	21	2	2020	8:50	Ks. Józefa	red fox	5
+185	KRAKOW	21	2	2020	20:14	Niebieska	roe deer	25
+186	KRAKOW	21	2	2020	20:15	Fatimska 44	domestic cat	3
+188	KRAKOW	21	2	2020	23:28	Powstańcow Słąskich	dog	5
+189	KRAKOW	22	2	2020	9:22	Skibowa 9	roe deer	25
+190	KRAKOW	22	2	2020	9:22	Bulwarowa	domestic cat	3
+191	KRAKOW	22	2	2020	10:37	Na Polach 3	birds	1
+192	KRAKOW	22	2	2020	16:28	Zakarnie	dog	70
+193	KRAKOW	22	2	2020	23:47	Klimeckiego 14	domestic cat	3
+194	KRAKOW	23	2	2020	10:50	Błonia	birds	1
+195	KRAKOW	23	2	2020	19:28	Winnicka 67	wild boar	120
+196	KRAKOW	24	2	2020	6:42	Tyniecka 43-44	wild boar	70
+197	KRAKOW	24	2	2020	7:15	Skrzetuskiego 21	red fox	7
+198	KRAKOW	24	2	2020	7:42	Igolomska 28H	dog	36
+199	KRAKOW	24	2	2020	18:54	Szastera	domestic cat	2
+200	KRAKOW	25	2	2020	12:07	Powstania Styczniowego	wild boar	31
+201	KRAKOW	25	2	2020	14:27	Szafrańska 14	roe deer	16
+202	KRAKOW	25	2	2020	18:58	Dąbrowa/Brzask	domestic cat	3
+204	KRAKOW	25	2	2020	21:19	Trakt Padogki	domestic cat	4
+205	KRAKOW	26	2	2020	10:31	Na Kozłówku 25	birds	1
+206	KRAKOW	26	2	2020	11:43	Nowohucka/Kuklińskiego	domestic cat	1
+207	KRAKOW	26	2	2020	16:41	Ptaszyckiego 	domestic cat	3
+208	KRAKOW	27	2	2020	7:07	Jasnogorska	wild boar	
+209	KRAKOW	27	2	2020	11:00	Za cmentarzem na Pułłanki	roe deer	
+210	KRAKOW	27	2	2020	12:18	Klasztorna	dog	
+211	KRAKOW	27	2	2020	17:56	Stelmachów 442	roe deer	
+212	KRAKOW	29	2	2020	9:22	Nowohucka	roe deer	
+213	KRAKOW	29	2	2020	21:24	Stachiewicza 3	badger	
+253	KRAKOW	1	3	2020	6:22	Kamionka 8-10	roe deer	20
+254	KRAKOW	1	3	2020	10:45	Las Wolski	wild boar	10
+255	KRAKOW	1	3	2020	11:24	Wąwozowa  11D/1	domestic cat	2
+256	KRAKOW	2	3	2020	11:08	Kamienna 6	rat	1
+257	KRAKOW	2	3	2020	11:33	Zakopieńska 177	birds	1
+258	KRAKOW	2	3	2020	15:58	Smoleńskiego 58	domestic cat	3
+259	KRAKOW	3	3	2020	5:03	Igolomska	roe deer	26
+260	KRAKOW	3	3	2020	8:00	Praska 57-58	squirrel	1
+261	KRAKOW	4	3	2020	6:46	Na Zielonki	birds	9
+262	KRAKOW	4	3	2020	8:07	Zakopiańska 82	domestic cat	5
+263	KRAKOW	4	3	2020	10:20	Turowicza	domestic cat	3
+264	KRAKOW	4	3	2020	13:27	Bogucianka 64-80	domestic cat	3
+265	KRAKOW	4	3	2020	16:13	Ujastek Mogilski	wild boar	110
+266	KRAKOW	4	3	2020	16:56	Spławy	dog	2
+267	KRAKOW	4	3	2020	19:04	Norymberska/Tyniecka	domestic cat	1
+268	KRAKOW	5	3	2020	6:10	Dobrego Pasteża	birds	
+269	KRAKOW	6	3	2020	13:37	Zakarnie	roe deer	5
+270	KRAKOW	7	3	2020	9:48	Prandoty/Rakowicka	domestic cat	3
+271	KRAKOW	8	3	2020	11:04	Lea 210 C	domestic cat	2
+272	KRAKOW	9	3	2020	14:54	Filtrowa	red fox	
+273	KRAKOW	9	3	2020	18:52	Gaik 88	roe deer	20
+274	KRAKOW	10	3	2020	6:36	Węgrzynowicka	domestic cat	2
+275	KRAKOW	10	3	2020	10:02	Tyniecka drogarowerowa	birds	3
+276	KRAKOW	10	3	2020	14:03	Witosa 23A	birds	1
+277	KRAKOW	10	3	2020	17:39	Bieżanowska 23 A	hedgehog	0
+278	KRAKOW	12	3	2020	12:02	Śliwiaka	domestic cat	3
+279	KRAKOW	12	3	2020	12:53	Bartnicza 9	roe deer	20
+280	KRAKOW	12	3	2020	16:32	Sadowa 6	domestic cat	3
+281	KRAKOW	12	3	2020	17:09	Sapalskiego 45	domestic cat	12
+282	KRAKOW	12	3	2020	19:02	Ugorek 10 c	birds	2
+283	KRAKOW	13	3	2020	11:42	Krzemieniecka 	birds	6
+284	KRAKOW	14	3	2020	9:27	Marii Dąbrowskiej	hare	2
+285	KRAKOW	15	3	2020	10:38	Rybitwy 35	roe deer	27
+286	KRAKOW	15	3	2020	22:24	Królowej Jadwigi 311	birds	1
+287	KRAKOW	16	3	2020	5:43	Czarnowiejska 	domestic cat	2
+288	KRAKOW	16	3	2020	15:26	Nad Serafą 8	domestic cat	3
+289	KRAKOW	16	3	2020	19:40	Szarotki 18	birds	
+290	KRAKOW	16	3	2020	19:58	Trybuny Ludów 17	domestic cat	1
+291	KRAKOW	16	3	2020	19:59	Poległych w Krzeslawicach	domestic cat	
+292	KRAKOW	17	3	2020	10:02	Gorka Narodowa 116	roe deer	21
+293	KRAKOW	17	3	2020	10:03	NaStoku 1	domestic cat	3
+294	KRAKOW	17	3	2020	10:31	Wilczy Stok 7	birds	1
+295	KRAKOW	17	3	2020	21:52	Srebrnych Orłów	domestic cat	2
+296	KRAKOW	18	3	2020	7:12	Szustera 13	domestic cat	3
+297	KRAKOW	18	3	2020	14:42	Walerego Sławka 28	domestic cat	
+298	KRAKOW	19	3	2020	13:49	Poniedziałkowy Dół 11	roe deer	24
+299	KRAKOW	19	3	2020	17:00	Zamojskiego 86	rat	1
+300	KRAKOW	19	3	2020	18:13	Niezapominajek 19/1	birds	1
+301	KRAKOW	20	3	2020	9:54	Myśliwska 57	domestic cat	
+302	KRAKOW	20	3	2020	11:48	Balicka 301	birds	1
+303	KRAKOW	20	3	2020	17:32	Jodłowa 21	domestic cat	
+304	KRAKOW	21	3	2020	8:28	Montwiłła Mireckiego 26	domestic cat	2
+305	KRAKOW	21	3	2020	12:54	Łobzowska 26	dog	5
+306	KRAKOW	22	3	2020	12:36	Hletmana 39	domestic cat	1
+307	KRAKOW	22	3	2020	14:22	g.Morcinaka 	roe deer	20
+308	KRAKOW	22	3	2020	19:32	Stepowa 28	roe deer	13
+309	KRAKOW	23	3	2020	8:59	Lilli Wenedy 9	birds	1
+310	KRAKOW	23	3	2020	10:36	Jodlowa 14	domestic cat	3
+311	KRAKOW	23	3	2020	10:47	Wyłom	birds	7
+312	KRAKOW	24	3	2020	7:04	Fared foxta	wild boar	
+313	KRAKOW	24	3	2020	8:15	Ptaszyckiego/Igolomska	red fox	7
+314	KRAKOW	24	3	2020	9:34	Marusarzówny	domestic cat	3
+315	KRAKOW	25	3	2020	11:54	Heltmana 84	domestic cat	2
+316	KRAKOW	25	3	2020	14:42	Podbipiety 123	roe deer	
+317	KRAKOW	25	3	2020	15:58	Siewna 4	domestic cat	1
+318	KRAKOW	26	3	2020	7:58	Dobrego Pasterza 116	domestic cat	3
+319	KRAKOW	26	3	2020	10:46	Gronostajowa 7	hare	3
+320	KRAKOW	26	3	2020	18:52	Bogucicka 71 c	roe deer	10
+321	KRAKOW	27	3	2020	6:16	Podbipiety 123	roe deer	30
+322	KRAKOW	27	3	2020	11:07	Zagloby	hare	3
+323	KRAKOW	27	3	2020	17:13	Warzewskiego 26	domestic cat	3
+324	KRAKOW	28	3	2020	9:51	Wyżynna 16	roe deer	20
+325	KRAKOW	28	3	2020	13:04	Łąki Nowohuckie	red fox	
+326	KRAKOW	28	3	2020	19:50	Krzemieniecka 	roe deer	
+327	KRAKOW	29	3	2020	8:21	Jana Kantego 162	birds	1
+328	KRAKOW	29	3	2020	12:27	Chmieleniec 4	birds	1
+329	KRAKOW	29	3	2020	15:16	Las tyniecki	roe deer	
+330	KRAKOW	29	3	2020	16:20	Ks. Jozefa 255	wild boar	
+331	KRAKOW	30	3	2020	12:32	Wielicka	hare	
+332	KRAKOW	31	3	2020	10:53	Siewna 17	red fox	
+333	KRAKOW	31	3	2020	17:56	Krzemieniecka 63	roe deer	
+334	KRAKOW	31	3	2020	19:07	Komuny Paryskiej	domestic cat	
+386	KRAKOW	1	4	2020	12:39	Radnickiego 7	red fox	5
+387	KRAKOW	1	4	2020	12:39	Rżącka 14	domestic cat	3
+388	KRAKOW	2	4	2020	9:51	Armii KRAKOW 96	red fox	5
+389	KRAKOW	2	4	2020	17:31	Łąli Nowokuckie	roe deer	10
+390	KRAKOW	2	4	2020	20:40	Chałubińskiego 	roe deer	
+391	KRAKOW	3	4	2020	7:50	Łokietka	dog	25
+392	KRAKOW	3	4	2020	11:00	Olszanicka	roe deer	16
+393	KRAKOW	3	4	2020	13:38	Na Lotnisku 7	dog	
+394	KRAKOW	3	4	2020	15:12	Ks. Józefa /Do Przystani	domestic cat	3
+395	KRAKOW	3	4	2020	17:34	Obozowa	wild boar	30
+397	KRAKOW	3	4	2020	19:28	Saska 9	domestic cat	1
+398	KRAKOW	4	4	2020	10:04	Trybuny Ludu 20/22	domestic cat	4
+399	KRAKOW	5	4	2020	13:15	Slomiana 9	domestic cat	1
+400	KRAKOW	5	4	2020	15:26	Portowa 4	birds	1
+401	KRAKOW	6	4	2020	11:49	Kozia 5	domestic cat	3
+402	KRAKOW	6	4	2020	11:49	Ks. Józefa 	roe deer	21
+403	KRAKOW	6	4	2020	21:16	Ks.Józefa 75	wild boar	70
+404	KRAKOW	7	4	2020	7:20	Jana Pawła II	hare	2
+405	KRAKOW	7	4	2020	10:11	Sdomestic catnicka 230a	domestic cat	3
+406	KRAKOW	7	4	2020	13:27	Branicka 	roe deer	20
+407	KRAKOW	7	4	2020	16:20	Podłęcka 11B	domestic cat	3
+408	KRAKOW	8	4	2020	9:51	Królowej Jadwigi/Jesionowa	domestic cat	3
+409	KRAKOW	8	4	2020	11:37	Rybitwy 50	domestic cat	3
+410	KRAKOW	8	4	2020	13:35	Miarowa 4	birds	1
+411	KRAKOW	9	4	2020	6:53	Gromadzka 53A	hare	3
+412	KRAKOW	9	4	2020	6:54	Kozienicka 	roe deer	0
+413	KRAKOW	9	4	2020	7:39	Limanowskiego 54	domestic cat	0
+414	KRAKOW	9	4	2020	22:37	Lea 210 A	domestic cat	1
+415	KRAKOW	10	4	2020	6:50	Wiślicka/Bora Komorowskiego	domestic cat	1
+416	KRAKOW	10	4	2020	7:03	Wyrwa/Podgórki	domestic cat	1
+417	KRAKOW	10	4	2020	10:35	Kosocicka 7	roe deer	
+418	KRAKOW	10	4	2020	13:38	Wielicka/Kosocicka	roe deer	16
+419	KRAKOW	10	4	2020	13:38	Odmętowa 31	wild boar	
+420	KRAKOW	10	4	2020	16:14	Wadowska 17 A	domestic cat	3
+421	KRAKOW	10	4	2020	16:28	Odmętowa 31	wild boar	87
+422	KRAKOW	11	4	2020	20:36	Sdomestic catnicka 198	domestic cat	1
+423	KRAKOW	11	4	2020	20:51	Beskidzka 2	domestic cat	1
+424	KRAKOW	13	4	2020	10:48	Jodłowa 14 A	domestic cat	3
+425	KRAKOW	13	4	2020	22:13	Tyniecka 149	red fox	5
+426	KRAKOW	14	4	2020	7:38	Tyniecka  172	roe deer	25
+427	KRAKOW	14	4	2020	9:56	Powstańców	squirrel	1
+428	KRAKOW	15	4	2020	12:33	Modrzejewskiej 24	birds	1
+429	KRAKOW	15	4	2020	16:08	Dymarek 12	roe deer	22
+430	KRAKOW	15	4	2020	19:30	29 red foxtopada	wild boar	67
+431	KRAKOW	15	4	2020	19:31	Ks. Jozefa 255	hare	2
+432	KRAKOW	16	4	2020	6:23	Królowej Jadwigi 22-24	domestic cat	
+433	KRAKOW	16	4	2020	9:40	Barycka	dog	40
+434	KRAKOW	16	4	2020	11:01	Sołtysowska/Centralna	domestic cat	3
+435	KRAKOW	18	4	2020	8:25	Herberta	domestic cat	3
+436	KRAKOW	18	4	2020	8:58	Okulickiego	hedgehog	1
+437	KRAKOW	18	4	2020	13:01	Ludwinowska	birds	5
+438	KRAKOW	18	4	2020	17:52	Markowskiego	hedgehog	1
+439	KRAKOW	19	4	2020	9:51	Praska 63	hedgehog	1
+440	KRAKOW	19	4	2020	11:58	Dębskiego	roe deer	10
+441	KRAKOW	19	4	2020	12:47	Glinik 118A	domestic cat	3
+442	KRAKOW	19	4	2020	12:58	Powstańców Ślaskich	red fox	3
+443	KRAKOW	19	4	2020	20:30	Soltysowska 11/Centralna	domestic cat	2
+444	KRAKOW	19	4	2020	20:30	Łokietka 354	roe deer	10
+445	KRAKOW	20	4	2020	6:20	Nowohucka/Stoczniowców	domestic cat	1
+446	KRAKOW	20	4	2020	6:31	Puszkarska	domestic cat	0
+447	KRAKOW	20	4	2020	7:58	 Park Lilli Wenedy od ul. Konrada Wallenroda	domestic cat	0
+448	KRAKOW	20	4	2020	10:37	Zawiła 66	birds	1
+449	KRAKOW	20	4	2020	19:01	Krzyżańskiego 39	dog	3
+450	KRAKOW	21	4	2020	7:40	Jana Pawła II	domestic cat	2
+451	KRAKOW	21	4	2020	7:40	Powstania Warszawskiego	birds	1
+452	KRAKOW	21	4	2020	8:14	Al..Pokoju	domestic cat	
+453	KRAKOW	21	4	2020	8:33	Podłużna	roe deer	20
+454	KRAKOW	21	4	2020	9:16	Igolomska	roe deer	24
+455	KRAKOW	22	4	2020	4:58	G. Morcinka	roe deer	20
+456	KRAKOW	22	4	2020	10:47	Glogera	domestic cat	3
+457	KRAKOW	23	4	2020	14:25	Mogilska 99	birds	1
+458	KRAKOW	24	4	2020	1:43	Mirowska 	wild boar	25
+459	KRAKOW	24	4	2020	4:34	Sołtysowska	roe deer	15
+460	KRAKOW	24	4	2020	5:31	Jasnogórska 115	roe deer	0
+461	KRAKOW	24	4	2020	6:08	Ks. Józefa	roe deer	0
+462	KRAKOW	24	4	2020	6:08	Wielicka	domestic cat	1
+463	KRAKOW	24	4	2020	10:08	Centrum B 10-11	domestic cat	
+464	KRAKOW	24	4	2020	15:27	Centralna 41	roe deer	25
+465	KRAKOW	24	4	2020	19:36	Centrum B 1-10	domestic cat	
+466	KRAKOW	24	4	2020	21:01	Wielicka	dog	
+467	KRAKOW	25	4	2020	15:01	Orlińskiego	roe deer	34
+468	KRAKOW	25	4	2020	18:22	Wysłouchów	birds	1
+469	KRAKOW	25	4	2020	21:28	Lwowska 17	domestic cat	2
+470	KRAKOW	26	4	2020	9:32	Mazowiecka 106	birds	1
+471	KRAKOW	26	4	2020	9:32	Senatorska 24	birds	1
+472	KRAKOW	26	4	2020	12:26	Okólna 6	hedgehog	
+473	KRAKOW	26	4	2020	13:45	Brzeska/Kontryna	red fox	4
+474	KRAKOW	27	4	2020	5:53	Bieżanowska 248	roe deer	33
+475	KRAKOW	27	4	2020	7:17	Na Zielonki	roe deer	31
+476	KRAKOW	27	4	2020	8:45	Królowej Jadwigi143-145	domestic cat	
+477	KRAKOW	27	4	2020	9:32	Łokietka/Kaczorówka	domestic cat	
+478	KRAKOW	27	4	2020	14:44	Smoleńskiego 91	domestic cat	3
+480	KRAKOW	28	4	2020	8:36	Cedyńska 30-31	birds	1
+481	KRAKOW	28	4	2020	13:51	Banacha 29	rat	1
+482	KRAKOW	28	4	2020	18:46	Bieżanowska/Jasińskiego	hedgehog	1
+483	KRAKOW	28	4	2020	19:18	Goryczkowa/Jagodowa	domestic cat	
+484	KRAKOW	29	4	2020	7:08	Śliwiaka/Wrobel	wild boar	100
+485	KRAKOW	29	4	2020	7:40	Saska 9	domestic cat	
+486	KRAKOW	29	4	2020	11:56	Jesionowa	domestic cat	3
+487	KRAKOW	29	4	2020	15:17	Kościuszkowskie 1B	domestic cat	3
+488	KRAKOW	29	4	2020	17:04	Półłanki 22	domestic cat	
+489	KRAKOW	29	4	2020	22:25	Sdomestic catnicka 249	roe deer	15
+490	KRAKOW	30	4	2020	5:41	Kapelanka 15	roe deer	
+491	KRAKOW	30	4	2020	12:00	Kapelanka/Rozdroże	roe deer	29
+492	KRAKOW	30	4	2020	14:38	Bieżanowska 136	domestic cat	3
+493	KRAKOW	30	4	2020	21:07	Mirowska 	wild boar	50
+536	KRAKOW	25	4	2020	12:39	Radnickiego 8	red fox	6
+537	KRAKOW	25	4	2020	12:39	Rżącka 15	domestic cat	7
+538	KRAKOW	25	4	2020	9:51	Armii KRAKOW 97	red fox	25
+539	KRAKOW	25	4	2020	17:31	Łąli Nowokuckie	roe deer	
+540	KRAKOW	25	4	2020	20:40	Chałubińskiego 	roe deer	150
+541	KRAKOW	25	4	2020	7:50	Łokietka	dog	5
+542	KRAKOW	25	4	2020	11:00	Olszanicka	roe deer	3
+543	KRAKOW	26	4	2020	13:38	Na Lotnisku 8	dog	25
+544	KRAKOW	26	4	2020	15:12	Ks. Józefa /Do Przystani	domestic cat	33
+545	KRAKOW	26	4	2020	17:34	Obozowa	wild boar	1
+546	KRAKOW	26	4	2020	17:37	Ułanów 42	hare	34
+547	KRAKOW	26	4	2020	19:28	Saska 10	domestic cat	30
+548	KRAKOW	26	4	2020	10:04	Trybuny Ludu 20/23	domestic cat	5
+549	KRAKOW	26	4	2020	13:15	Slomiana 10	domestic cat	
+550	KRAKOW	1	5	2020	17:20	al. Andersa	domestic cat	3
+551	KRAKOW	1	5	2020	21:12	Śliwiaka	wild boar	
+552	KRAKOW	2	5	2020	6:01	Lilli Wenedy 3	birds	1
+553	KRAKOW	2	5	2020	9:09	Bociana 4B/13	domestic cat	2
+554	KRAKOW	2	5	2020	12:42	Torowa	wild boar	
+555	KRAKOW	2	5	2020	14:00	29 red foxtopada	domestic cat	3
+556	KRAKOW	2	5	2020	19:01	Nowohucka	hare	2
+557	KRAKOW	2	5	2020	22:12	Łużycka 70	domestic cat	4
+558	KRAKOW	3	5	2020	11:36	Gora Borkowska	birds	2
+559	KRAKOW	3	5	2020	12:03	Rączna 12B	roe deer	30
+560	KRAKOW	3	5	2020	17:51	Wielicka	domestic cat	1
+561	KRAKOW	4	5	2020	1:22	Nowohucka 	roe deer	
+562	KRAKOW	4	5	2020	8:14	Jana Pawła II	domestic cat	3
+563	KRAKOW	4	5	2020	10:24	Golikowka	domestic cat	3
+564	KRAKOW	4	5	2020	17:09	Mackiewicza/Narutowicza	domestic cat	3
+565	KRAKOW	4	5	2020	21:23	Nazaretańska	roe deer	25
+566	KRAKOW	4	5	2020	23:28	Rączna 37	domestic cat	2
+567	KRAKOW	5	5	2020	13:45	Kocmyrzowska	domestic cat	1
+568	KRAKOW	5	5	2020	16:55	Brzeska	hedgehog	1
+569	KRAKOW	6	5	2020	7:44	Brożka	domestic cat	2
+570	KRAKOW	6	5	2020	9:21	Ks. Józefa 269	roe deer	12
+571	KRAKOW	6	5	2020	17:33	Kamieńskiego	domestic cat	2
+572	KRAKOW	6	5	2020	22:53	Armii Krajowej	wild boar	100
+573	KRAKOW	7	5	2020	6:17	Zakopiańska 48	red fox	2
+574	KRAKOW	7	5	2020	8:38	Jasnogórska	roe deer	7
+575	KRAKOW	7	5	2020	13:01	Wiklinowa 15	wild boar	132
+576	KRAKOW	7	5	2020	20:40	Myśliwaska 62	domestic cat	1
+577	KRAKOW	7	5	2020	22:28	Madalińskiego 19	domestic cat	1
+578	KRAKOW	8	5	2020	11:15	Gronostajowa	wild boar	56
+579	KRAKOW	8	5	2020	15:26	Heila 10	birds	
+580	KRAKOW	8	5	2020	15:44	Królowej Jadwigi/Foscha	dog	1
+581	KRAKOW	8	5	2020	21:47	Widok 14	domestic cat	1
+582	KRAKOW	9	5	2020	8:47	Krowoderskich Zuchów/Batalionu skała	hedgehog	1
+583	KRAKOW	9	5	2020	22:56	Dozynkowa 140	roe deer	24
+584	KRAKOW	10	5	2020	7:30	Wiślicka	hedgehog	1
+585	KRAKOW	11	5	2020	22:49	Balicka	roe deer	25
+586	KRAKOW	12	5	2020	7:37	Igolomska	badger	0
+587	KRAKOW	12	5	2020	21:39	K.Bunscha	roe deer	41
+588	KRAKOW	13	5	2020	7:05	al. Pokoju	red fox	2
+589	KRAKOW	13	5	2020	9:01	Krzemieniecka 40	roe deer	0
+590	KRAKOW	13	5	2020	16:42	Zakopiańska 150	domestic cat	3
+591	KRAKOW	13	5	2020	18:57	Powstańców Wielkopolskich	domestic cat	2
+592	KRAKOW	13	5	2020	19:30	Zakopiańska 150	domestic cat	
+593	KRAKOW	13	5	2020		Mistrzejowicka	birds	2
+594	KRAKOW	14	5	2020	9:55	Kocmyrzowska	domestic cat	2
+595	KRAKOW	14	5	2020	13:27	Na Blonie	rat	0
+596	KRAKOW	14	5	2020	18:19	Łokietka	roe deer	0
+597	KRAKOW	15	5	2020	12:28	Petrażyckiego 156	roe deer	0
+598	KRAKOW	15	5	2020	21:40	Sużyckiego 26	roe deer	20
+599	KRAKOW	16	5	2020	7:04	Gustawa Morcinka	roe deer	20
+600	KRAKOW	16	5	2020	18:02	Brogi 32	domestic cat	2
+601	KRAKOW	16	5	2020	20:38	Brzeska 2c	red fox	
+602	KRAKOW	17	5	2020	9:10	Witosa	birds	
+603	KRAKOW	17	5	2020	14:48	Splawy	roe deer	25
+604	KRAKOW	17	5	2020	15:13	Śliwiaka	roe deer	
+605	KRAKOW	18	5	2020	5:01	Igolomska	hare	2
+606	KRAKOW	18	5	2020	16:08	hedgehogiorko	roe deer	25
+607	KRAKOW	19	5	2020	8:12	Igołomska	roe deer	25
+608	KRAKOW	19	5	2020	10:49	Rybitwy 47	roe deer	25
+609	KRAKOW	20	5	2020	6:06	Petrażyckiego 156	domestic cat	3
+610	KRAKOW	20	5	2020	6:49	Pilotów	domestic cat	3
+611	KRAKOW	20	5	2020	7:08	Petofiego	domestic cat	3
+612	KRAKOW	20	5	2020	7:54	Brzeska 1B	red fox	5
+613	KRAKOW	20	5	2020	15:46	Fredry	hedgehog	1
+614	KRAKOW	20	5	2020	15:46	Na Kozłówce 25	birds	1
+615	KRAKOW	20	5	2020	23:07	Halszki/Bujaka 14	domestic cat	
+616	KRAKOW	21	5	2020	5:01	Jana Pawła II/Boruty-Spiechowicza	domestic cat	
+617	KRAKOW	21	5	2020	7:12	Piasta Kołodzieja/Ognistych wici	hedgehog	1
+618	KRAKOW	21	5	2020	9:25	Konopnickiej	domestic cat	1
+619	KRAKOW	21	5	2020	10:30	Las Mogilski	roe deer	2
+620	KRAKOW	21	5	2020	14:55	Leśna 23	roe deer	1
+621	KRAKOW	21	5	2020	21:42	Darwina 47	domestic cat	1
+622	KRAKOW	22	5	2020	6:22	Piasta Kołódzieja	hedgehog	1
+623	KRAKOW	22	5	2020	6:22	Michała Wójcickiego	wild boar	5
+624	KRAKOW	22	5	2020	14:54	Na Skarpie 36	dog	11
+625	KRAKOW	22	5	2020	17:58	Królowej Jadwigi domestic cat	domestic cat	3
+626	KRAKOW	23	5	2020	9:24	Obrońców Krzyża	domestic cat	3
+627	KRAKOW	23	5	2020	12:04	Cedyńska	birds	1
+628	KRAKOW	23	5	2020	15:37	Glinik 118A	domestic cat	3
+629	KRAKOW	24	5	2020	10:02	Obrońców Krzyża/Jagiellońskie	domestic cat	3
+630	KRAKOW	24	5	2020	15:18	Budziszyńska 36	rat	
+631	KRAKOW	24	5	2020	15:18	Rybitwy 92	roe deer	25
+632	KRAKOW	25	5	2020	5:34	Balicka	roe deer	30
+633	KRAKOW	25	5	2020	9:18	Tyniecka 215	red fox	7
+634	KRAKOW	25	5	2020	12:27	Łutnia 31	domestic cat	
+635	KRAKOW	25	5	2020	22:22	Nowohucka	red fox	1
+636	KRAKOW	26	5	2020	8:34	Herberta	red fox	7
+637	KRAKOW	26	5	2020	20:19	Węgrzynowicka 38	domestic cat	2
+638	KRAKOW	27	5	2020	6:58	Winnicka 67	roe deer	
+639	KRAKOW	27	5	2020	6:58	Bronowicka/Czepca	domestic cat	2
+640	KRAKOW	27	5	2020	11:32	Kuklińskiego/Gromadzka	birds	3
+641	KRAKOW	27	5	2020	13:00	Wrocławska 12B	domestic cat	3
+642	KRAKOW	27	5	2020	19:21	Kocmyrzowska	red fox	3
+643	KRAKOW	28	5	2020	7:39	Igolomska	red fox	2
+644	KRAKOW	28	5	2020	9:32	Janowskiego 21A	roe deer	8
+645	KRAKOW	28	5	2020	15:36	Igolomska 29B	red fox	3
+646	KRAKOW	29	5	2020	7:30	Wielicka/Wolska	domestic cat	
+647	KRAKOW	29	5	2020	15:18	Krzemieniecka 63	deer	25
+648	KRAKOW	29	5	2020	19:34	Jasnogórska	roe deer	
+649	KRAKOW	30	5	2020	6:53	Nowosądecka 	red fox	3
+650	KRAKOW	30	5	2020	14:03	Rybitwy 44-46	domestic cat	
+651	KRAKOW	31	5	2020	8:59	Prof..Wiśniewskiego	roe deer	
+692	KRAKOW	1	6	2020	9:36	Brzeska	dog	15
+693	KRAKOW	1	6	2020	17:48	Kalinowe 2	red fox	7
+694	KRAKOW	1	6	2020	19:17	Kantorowicka	dog	
+695	KRAKOW	2	6	2020	8:49	Brzeska/Jgołomska	red fox	3
+696	KRAKOW	2	6	2020	11:30	al. Powstańców Ślaskich	domestic cat	1
+697	KRAKOW	2	6	2020	13:05	Na Zrembie/Kościuszkowców	hedgehog	1
+698	KRAKOW	2	6	2020	16:30	Kawowa 6	wild boar	50
+699	KRAKOW	2	6	2020	21:48	Mirowska/Orla	badger	5
+700	KRAKOW	3	6	2020	13:22	Winowców	wild boar	
+701	KRAKOW	3	6	2020	16:50	Unruga 67 B	roe deer	20
+702	KRAKOW	4	6	2020	6:43	Powstańców Wielkopolski	domestic cat	2
+703	KRAKOW	4	6	2020	14:54	Kościelnicka 1	roe deer	20
+704	KRAKOW	4	6	2020	18:06	Węgrzynowicka 12	domestic cat	2
+705	KRAKOW	4	6	2020	21:44	Ks.  P.Ściegiennego 20	domestic cat	3
+706	KRAKOW	5	6	2020	7:18	Pasternik	roe deer	30
+707	KRAKOW	5	6	2020	11:48	Kminkowa /Rączna	dog	9
+708	KRAKOW	6	6	2020	14:15	Wadowska	red fox	2
+709	KRAKOW	7	6	2020	8:38	Osterwy	red fox	
+710	KRAKOW	7	6	2020	10:25	Wielicka	hedgehog	1
+711	KRAKOW	7	6	2020	22:51	Petrażyckiego/Żyzna	roe deer	
+712	KRAKOW	8	6	2020	3:31	Turowicza	roe deer	20
+713	KRAKOW	8	6	2020	6:24	Bora-Komorowskiego	red fox	1
+714	KRAKOW	8	6	2020	8:04	Petrażyckiego 64-70	roe deer	25
+715	KRAKOW	8	6	2020	9:19	Heligundy 4d	roe deer	12
+716	KRAKOW	8	6	2020	15:21	Kozienicka	roe deer	7
+717	KRAKOW	9	6	2020	6:27	Brzeska	roe deer	12
+718	KRAKOW	9	6	2020	10:22	Benedydomestic catowicza	roe deer	26
+719	KRAKOW	9	6	2020	21:36	Świerkowa 6	roe deer	20
+720	KRAKOW	10	6	2020	8:48	Ks. Józefa	wild boar	18
+721	KRAKOW	10	6	2020	14:14	Niezapominajek/Podłużna	domestic cat	3
+722	KRAKOW	11	6	2020	8:54	Tischnera	birds	3
+723	KRAKOW	11	6	2020	13:53	Szwedzka 24	domestic cat	3
+724	KRAKOW	11	6	2020	19:54	Wielicka/Kostaneckiego	domestic cat	2
+725	KRAKOW	13	6	2020	2:05	Bora-Komorowskiego/Dobrego Pasterza	red fox	
+726	KRAKOW	13	6	2020	11:41	Widna 10	birds	1
+727	KRAKOW	13	6	2020	14:04	Tyniecka 1552	wild boar	91
+728	KRAKOW	13	6	2020	15:57	Maiselsa 14	birds	1
+729	KRAKOW	13	6	2020	19:22	Jarzębiny	domestic cat	4
+730	KRAKOW	14	6	2020	7:48	Jodłowa 31-33	roe deer	10
+731	KRAKOW	14	6	2020	9:11	Glinik 10	roe deer	25
+732	KRAKOW	14	6	2020	10:36	Powstanców/Dziekanowicka	domestic cat	3
+733	KRAKOW	14	6	2020	12:40	Olszanicka 12A	squirrel	
+734	KRAKOW	15	6	2020	6:45	Kłuszyńska 	roe deer	2
+735	KRAKOW	15	6	2020	9:58	Okulickiego	red fox	3
+736	KRAKOW	15	6	2020	19:09	Sądowa 1	hedgehog	1
+737	KRAKOW	15	6	2020	21:52	Wielicka	dog	22
+738	KRAKOW	15	6	2020	21:52	Kruszwicka 21	domestic cat	
+739	KRAKOW	16	6	2020	18:42	Lindego 7	birds	1
+740	KRAKOW	16	6	2020	18:42	Lema/Dąbska	domestic cat	2
+741	KRAKOW	17	6	2020	8:30	Bieńczycka	domestic cat	2
+742	KRAKOW	17	6	2020	10:12	Opolska 	domestic cat	
+743	KRAKOW	17	6	2020	11:49	Chrobrego	birds	1
+744	KRAKOW	17	6	2020	13:07	Kobierzyńska	hedgehog	1
+745	KRAKOW	17	6	2020	15:48	Drożyska 72	domestic cat	
+746	KRAKOW	17	6	2020	20:29	Grzegorzecka 21	birds	
+747	KRAKOW	18	6	2020	6:17	G. Morcinka	roe deer	34
+748	KRAKOW	18	6	2020	8:16	Sądowa 1	hedgehog	
+749	KRAKOW	18	6	2020	8:38	Węzeł wielicki	roe deer	
+750	KRAKOW	18	6	2020	14:54	Lipska 22	domestic cat	3
+751	KRAKOW	19	6	2020	8:01	Bobrzyńskiego	hare	1
+752	KRAKOW	19	6	2020	8:55	Korzeniaka  4	domestic cat	1
+753	KRAKOW	19	6	2020	11:17	Babińskiego	wild boar	
+754	KRAKOW	19	6	2020	12:38	J. Smoleńskiego	domestic cat	3
+755	KRAKOW	19	6	2020	17:35	Sdomestic catnica 12	roe deer	7
+756	KRAKOW	20	6	2020	15:02	Wyciąska 32-33	roe deer	2
+757	KRAKOW	20	6	2020	23:44	Pętla Czerwone Maki torowisko	hare	1
+758	KRAKOW	21	6	2020	20:14	Żmujdzka 20	domestic cat	2
+759	KRAKOW	22	6	2020	3:11	Poziomkowa	roe deer	
+760	KRAKOW	22	6	2020	18:51	Zielony Jar 15	domestic cat	
+761	KRAKOW	22	6	2020	19:54	NCK	red fox	1
+762	KRAKOW	23	6	2020	4:35	Tyniecka 118G	wild boar	40
+763	KRAKOW	23	6	2020	7:32	Igolomska 14B	domestic cat	1
+764	KRAKOW	23	6	2020	8:40	Okręglik	domestic cat	
+765	KRAKOW	23	6	2020	10:27	Pilotów	domestic cat	
+766	KRAKOW	23	6	2020	18:58	Zileony Jar	domestic cat	2
+767	KRAKOW	24	6	2020	4:32	Bora-komorowskiego/jurczaka	roe deer	25
+768	KRAKOW	24	6	2020	7:02	Przewóz	domestic cat	2
+769	KRAKOW	24	6	2020	19:07	Wąwozowa 17	roe deer	25
+770	KRAKOW	24	6	2020	21:15	Pasternik	birds	1
+771	KRAKOW	24	6	2020	23:35	Wrony/Sdomestic catnicka	red fox	4
+772	KRAKOW	25	6	2020	9:21	Soczyny 1G	roe deer	25
+773	KRAKOW	26	6	2020	10:19	Maisnera 40	birds	
+774	KRAKOW	26	6	2020	14:21	Kościuszkowskie 2A	dog	
+775	KRAKOW	27	6	2020	8:54	Bieżanowska 7	hedgehog	
+776	KRAKOW	27	6	2020	10:13	Cegielniana	birds	
+777	KRAKOW	27	6	2020	13:34	Majora Łupaszki	red fox	
+778	KRAKOW	28	6	2020	6:17	Wislicka	hedgehog	
+779	KRAKOW	28	6	2020	13:46	Bagry	badger	
+780	KRAKOW	28	6	2020	14:42	11	birds	
+781	KRAKOW	29	6	2020	1:54	Bróżka/Borsucza	roe deer	
+782	KRAKOW	29	6	2020	4:00	Łowińskiego	roe deer	
+783	KRAKOW	29	6	2020	8:45	Jurajska/Na zielonki	roe deer	
+784	KRAKOW	30	6	2020	7:19	Półłanki	domestic cat	
+785	KRAKOW	30	6	2020	8:16	Bogucicka 36	domestic cat	
+786	KRAKOW	30	6	2020	10:25	Dobrego Pasterza 120 B	squirrel	
+787	KRAKOW	30	6	2020	11:21	Sawiczewskich 10	domestic cat	
+203	KRAKOW	25	2	2020	21:19	Praska 67	squirrel	0
+396	KRAKOW	3	4	2020	17:37	Ułanów 41	hare	5
+83	NIEPOLOMICE	16	1	2020	13:04	Droga Królewska 93	red fox	7
+84	NIEPOLOMICE	2	1	2020	7:00	Zabierzowska 22	roe deer	
+85	NIEPOLOMICE	2	1	2020	9:47	Batorego 55	roe deer	15
+86	NIEPOLOMICE	5	1	2020	20:45	Kwiatkowskiego 	roe deer	28
+87	NIEPOLOMICE	9	1	2020	17:10	Zabierzów Bocheński	roe deer	25
+88	NIEPOLOMICE	10	1	2020	10:17	Wola Batorska 19	domestic cat	1
+89	NIEPOLOMICE	12	1	2020	19:09	Zabierzów Bocheński	dog	
+90	NIEPOLOMICE	14	1	2020	10:50	Portowa 11C	red deer	141
+91	NIEPOLOMICE	16	1	2020	13:45	Batorego 53A	roe deer	21
+92	NIEPOLOMICE	26	1	2020	4:41	Batorego	roe deer	20
+93	NIEPOLOMICE	27	1	2020	12:48	Chobot	domestic cat	3
+94	NIEPOLOMICE	30	1	2020	13:01	Wola Zabierzowska 382	roe deer	25
+214	NIEPOLOMICE	3	2	2020	12:31	Zabierzów Bocheński	roe deer	
+215	NIEPOLOMICE	5	2	2020	7:34	NIEPOLOMICEparka	squirrel	
+216	NIEPOLOMICE	5	2	2020	11:25	Ksiażka 5,Podgrabie	roe deer	25
+217	NIEPOLOMICE	6	2	2020	11:34	Trudna 1A	roe deer	25
+218	NIEPOLOMICE	8	2	2020	11:27	Wielicka 20	domestic cat	1
+219	NIEPOLOMICE	8	2	2020	16:30	Zakrzów	roe deer	
+220	NIEPOLOMICE	8	2	2020	16:30	Wola Zabierzowska 6A	dog	25
+221	NIEPOLOMICE	10	2	2020	8:09	Wielicka 20	red fox	7
+222	NIEPOLOMICE	10	2	2020	11:17	WolaBatorska	roe deer	20
+223	NIEPOLOMICE	11	2	2020	18:30	Wielicka 85	roe deer	25
+224	NIEPOLOMICE	13	2	2020	10:34	Batorego 62	roe deer	7
+225	NIEPOLOMICE	13	2	2020	15:36	Ochmanów	roe deer	0
+226	NIEPOLOMICE	13	2	2020	17:09	Grabska 8	wild boar	40
+227	NIEPOLOMICE	14	2	2020	13:28	Portowa 11 B	roe deer	12
+228	NIEPOLOMICE	15	2	2020	11:40	Brzeska	roe deer	30
+229	NIEPOLOMICE	17	2	2020	18:02	Chobot	roe deer	20
+230	NIEPOLOMICE	18	2	2020	14:28	Wola Batorska 818	roe deer	25
+231	NIEPOLOMICE	25	2	2020	13:03	Zagórze	roe deer	21
+335	NIEPOLOMICE	30	3	2020	14:33	Sportowa	domestic cat	
+336	NIEPOLOMICE	2	3	2020	10:08	Pless 19	roe deer	25
+337	NIEPOLOMICE	2	3	2020	11:06	Podłęże 60	roe deer	25
+338	NIEPOLOMICE	2	3	2020	11:06	Wola Batorska 167	roe deer	25
+339	NIEPOLOMICE	5	3	2020	15:41	Wola Batorska 919	red fox	7
+340	NIEPOLOMICE	8	3	2020	13:21	Zakrzów	roe deer	21
+341	NIEPOLOMICE	8	3	2020	14:03	Zabierzów Boheński (sklep JuHas)	roe deer	0
+342	NIEPOLOMICE	9	3	2020	9:00	Chobot 95	roe deer	25
+343	NIEPOLOMICE	10	3	2020	11:04	Modrzejewskiej	domestic cat	3
+344	NIEPOLOMICE	11	3	2020	15:03	Topolowa 14	red fox	5
+345	NIEPOLOMICE	15	3	2020	12:14	Staniątecka 	roe deer	28
+346	NIEPOLOMICE	15	3	2020	14:16	Krakowska 18	roe deer	27
+347	NIEPOLOMICE	16	3	2020	18:20	Wola Zabierzowska	roe deer	
+348	NIEPOLOMICE	17	3	2020	10:25	Jagiellońska	domestic cat	3
+349	NIEPOLOMICE	20	3	2020	15:53		racoon dog	
+350	NIEPOLOMICE	21	3	2020	15:42	Zakrzów 236	roe deer	
+351	NIEPOLOMICE	28	3	2020	12:00	Węgrzce 	roe deer	20
+352	NIEPOLOMICE	28	3	2020	21:46	Krakowska NIEPOLOMICE	roe deer	20
+494	NIEPOLOMICE	6	4	2020	16:20	Zakrzów 414	roe deer	36
+495	NIEPOLOMICE	8	4	2020	11:06	Wola Zabierzowska/Zabierzów	roe deer	15
+496	NIEPOLOMICE	8	4	2020	11:28	Płaszowska 25	birds	
+497	NIEPOLOMICE	9	4	2020	9:40	Wola Batorska 303	roe deer	23
+498	NIEPOLOMICE	14	4	2020	10:42	Zabierzów Bocheński	roe deer	12
+499	NIEPOLOMICE	15	4	2020	15:39	Zabierzów Bocjheński/Wola Zabierzowska	roe deer	
+500	NIEPOLOMICE	15	4	2020	16:29	Zakrzów 387	wild boar	90
+501	NIEPOLOMICE	16	4	2020	3:09	Staniątki 55	roe deer	12
+502	NIEPOLOMICE	16	4	2020	10:17	Zakrzów 159	domestic cat	3
+503	NIEPOLOMICE	17	4	2020	15:44	Ochmanów	roe deer	7
+504	NIEPOLOMICE	18	4	2020	13:14	Wola Batorska 77	roe deer	25
+505	NIEPOLOMICE	20	4	2020	9:30	Szewska 7	birds	1
+506	NIEPOLOMICE	20	4	2020	19:39	Podgrabie	roe deer	20
+507	NIEPOLOMICE	21	4	2020	6:23	Ochmanów 127	roe deer	30
+508	NIEPOLOMICE	22	4	2020	10:18	Ułanów NIEPOLOMICE	roe deer	                           
+509	NIEPOLOMICE	22	4	2020	13:48	Wola Batorska	roe deer	
+510	NIEPOLOMICE	23	4	2020	8:20	Wola Batorska 7	roe deer	22
+511	NIEPOLOMICE	23	4	2020	8:23	Podłęże 622	roe deer	25
+512	NIEPOLOMICE	24	4	2020	6:15	Wola Batorska 190	roe deer	
+513	NIEPOLOMICE	24	4	2020	10:13	Wola Batorska	domestic cat	3
+514	NIEPOLOMICE	24	4	2020	14:48	Wola Batorska 190	roe deer	25
+515	NIEPOLOMICE	24	4	2020	15:49	Zabierzów Bocheński	roe deer	25
+516	NIEPOLOMICE	27	4	2020	22:17	Zakrzów 271	roe deer	30
+517	NIEPOLOMICE	28	4	2020	16:59	Wola Batorska 531	roe deer	27
+518	NIEPOLOMICE	28	4	2020	21:12	Wola Batorska	roe deer	30
+519	NIEPOLOMICE	29	4	2020	12:02	Niepolomice	birds	
+520	NIEPOLOMICE	30	4	2020	9:34	Mokra 9	birds	
+521	NIEPOLOMICE	30	4	2020	15:56	Wola Batorska	roe deer	30
+652	NIEPOLOMICE	11	5	2020	14:18	Ochmanów 38	domestic cat	
+653	NIEPOLOMICE	14	5	2020	15:56	Podłęże 190	roe deer	20
+654	NIEPOLOMICE	1	5	2020	15:52	Chobot 7	roe deer	30
+655	NIEPOLOMICE	1	5	2020	18:16	Podłęże 280	roe deer	30
+656	NIEPOLOMICE	2	5	2020	19:53	Siostry Czackiej	roe deer	
+657	NIEPOLOMICE	4	5	2020	10:00	Ochmanów 38	roe deer	30
+658	NIEPOLOMICE	8	5	2020	21:32	Zakrzowiec	beaver	15
+659	NIEPOLOMICE	16	5	2020	3:45	Wola Zabierzowska 297	roe deer	18
+660	NIEPOLOMICE	18	5	2020	13:28	Ochamnów/Podłeże	roe deer	22
+661	NIEPOLOMICE	19	5	2020	11:39	Zabierzów/Ochmanów	roe deer	
+662	NIEPOLOMICE	22	5	2020	18:10	Wola Batorska 844	roe deer	10
+663	NIEPOLOMICE	23	5	2020	7:56	Ogrodowa	domestic cat	3
+664	NIEPOLOMICE	25	5	2020	9:47	Kolejowa	roe deer	21
+665	NIEPOLOMICE	28	5	2020	10:23	Krakowska	domestic cat	2
+666	NIEPOLOMICE	28	5	2020	10:55	Krakowska/Sportowa	domestic cat	3
+667	NIEPOLOMICE	28	5	2020	11:58	Wielicka, staniątki	roe deer	15
+668	NIEPOLOMICE	29	5	2020	15:41	Podłęże 268	roe deer	20
+669	NIEPOLOMICE	30	5	2020	10:00	Grunwaldzka 24K/2	domestic cat	3
+670	NIEPOLOMICE	30	5	2020		Bohaterów Getta	domestic cat	3
+788	NIEPOLOMICE	3	6	2020	14:07	Brzeska	roe deer	20
+789	NIEPOLOMICE	3	6	2020	15:26	Mokra  9	birds	
+790	NIEPOLOMICE	15	6	2020	9:56	Kwiatkowskiego	hare	3
+791	NIEPOLOMICE	15	6	2020	14:26	Zakrzowiec	roe deer	10
+792	NIEPOLOMICE	18	6	2020	8:13	DW 964 Hotel NIEPOLOMICE	hedgehog	1
+793	NIEPOLOMICE	18	6	2020	8:13	DW 964 Hotel NIEPOLOMICE	hedgehog	1
+794	NIEPOLOMICE	29	6	2020	11:30	Grabska 12O	domestic cat	
+795	NIEPOLOMICE	29	6	2020	16:21	Podłęże 516	birds	
+796	NIEPOLOMICE	1	6	2020	11:55	Wimmera 67B	domestic cat	2
+797	NIEPOLOMICE	4	6	2020	11:47	Zabierzów Boheński 497	roe deer	20
+798	NIEPOLOMICE	7	6	2020	8:57	Wola Batorska 919	red fox	
+799	NIEPOLOMICE	14	6	2020	2:21	Bocheńska	roe deer	
+800	NIEPOLOMICE	15	6	2020	11:59	Staniątecka 22	domestic cat	3
+801	NIEPOLOMICE	16	6	2020	15:36	Trudna 1	birds	4
+802	NIEPOLOMICE	23	6	2020	11:31	Podłęże	domestic cat	3
+803	NIEPOLOMICE	24	6	2020	9:17	Podłęże 566	roe deer	25
+804	NIEPOLOMICE	25	6	2020	9:42	Wola Batorska 441	domestic cat	3
+38	WIELICZKA	15	1	2020	9:00	Grajów	domestic cat	1
+96	WIELICZKA	3	1	2020	8:11	Gdowska	dog	5
+97	WIELICZKA	3	1	2020	8:11	Krzyszkowicka 70	domestic cat	3
+98	WIELICZKA	3	1	2020	12:52	Warzycka 37	domestic cat	3
+99	WIELICZKA	4	1	2020	10:45	Węgrzce Wielkie 328	wild boar	143
+100	WIELICZKA	4	1	2020	10:45	Węgrzce Wielkie 460	red fox	7
+101	WIELICZKA	4	1	2020	17:09	Podstolice	birds	
+102	WIELICZKA	9	1	2020	11:14	Lednica Górna	roe deer	
+103	WIELICZKA	9	1	2020	11:33	Byszyce	roe deer	20
+104	WIELICZKA	9	1	2020	15:47	Lednica Górna	roe deer	25
+105	WIELICZKA	11	1	2020	12:26	Grabie 125	roe deer	10
+106	WIELICZKA	11	1	2020	13:00		racoon dog	7
+107	WIELICZKA	16	1	2020	17:24	Piłsudskiego 82	domestic cat	3
+108	WIELICZKA	21	1	2020	20:25	Grajów 155	roe deer	25
+109	WIELICZKA	24	1	2020	17:05	Winnicka 40	roe deer	30
+110	WIELICZKA	27	1	2020	9:19	podstolice 46	birds	1
+111	WIELICZKA	27	1	2020	9:27	Warzycka 37	domestic cat	3
+112	WIELICZKA	29	1	2020	12:58	Winnicka 40	wild boar	188
+113	WIELICZKA	31	1	2020	13:13	Grabie 103	domestic cat	3
+232	WIELICZKA	6	2	2020	18:57	Powstania Stczniowego	roe deer	20
+233	WIELICZKA	8	2	2020	9:17	Gorzków	dog	3
+234	WIELICZKA	9	2	2020	15:48	Sułułków	roe deer	20
+235	WIELICZKA	9	2	2020	19:42	Raciborsko 125	roe deer	16
+236	WIELICZKA	10	2	2020	13:22	Raciborsko 125	red fox	
+237	WIELICZKA	11	2	2020	13:43	Grottgera	domestic cat	5
+238	WIELICZKA	12	2	2020	10:13	DW 964 Raciborsko	red fox	7
+239	WIELICZKA	12	2	2020	18:12	Raciborsko 91	roe deer	25
+240	WIELICZKA	14	2	2020	14:49	Warzycka 37	birds	1
+241	WIELICZKA	14	2	2020	18:13	Warzycka 37	domestic cat	3
+242	WIELICZKA	17	2	2020	10:00	Koźmice wielkie	hare	2
+243	WIELICZKA	17	2	2020	22:00	Grajów	wild boar	119
+244	WIELICZKA	18	2	2020	10:37	Warzycka 37	domestic cat	3
+245	WIELICZKA	19	2	2020	8:44	Grabówki 149	roe deer	25
+246	WIELICZKA	20	2	2020	15:26	Grabówki 74	roe deer	
+247	WIELICZKA	21	2	2020	7:54	Grabówki 74	roe deer	5
+248	WIELICZKA	22	2	2020	9:46	Grabie 176	birds	1
+249	WIELICZKA	22	2	2020	18:39	Mała wieś	roe deer	10
+250	WIELICZKA	24	2	2020	11:57	Grabie 10	domestic cat	3
+251	WIELICZKA	27	2	2020	7:19	Golkowice	roe deer	
+252	WIELICZKA	29	2	2020	8:52	Koźmice Wielkie 309	roe deer	
+353	WIELICZKA	2	3	2020	15:14	Kodomestic catów 237	roe deer	25
+354	WIELICZKA	4	3	2020	18:13	Ochota 4B	roe deer	
+355	WIELICZKA	7	3	2020	6:27	Czarnochowice 290	roe deer	
+356	WIELICZKA	7	3	2020	9:42	Raciborsko 35	roe deer	23
+357	WIELICZKA	8	3	2020	7:44	Dobczycka	wild boar	113
+358	WIELICZKA	9	3	2020	9:00	Narutowicza	hare	3
+359	WIELICZKA	10	3	2020	7:21	Podgórska 66	roe deer	25
+360	WIELICZKA	10	3	2020	7:44	Kodomestic catów 922	roe deer	20
+361	WIELICZKA	12	3	2020	12:24	Koźmice Wielkie 372	red fox	5
+362	WIELICZKA	13	3	2020	15:43	Kodomestic catów 193	roe deer	6
+363	WIELICZKA	14	3	2020	5:03	Grabówki	roe deer	15
+364	WIELICZKA	14	3	2020	11:24	Gorzków 216	roe deer	10
+365	WIELICZKA	15	3	2020	12:23	Raciborski	domestic cat	1
+366	WIELICZKA	15	3	2020	16:04	Kodomestic catów 208	roe deer	28
+367	WIELICZKA	16	3	2020	7:49	Podstolice 255	roe deer	26
+368	WIELICZKA	16	3	2020	13:20	Czrnochowice 229	birds	1
+369	WIELICZKA	18	3	2020	6:26	Siercza 174	roe deer	25
+370	WIELICZKA	19	3	2020	10:40	Gorzków 175	domestic cat	3
+371	WIELICZKA	19	3	2020	13:15	Lednica Górna 572	red fox	5
+372	WIELICZKA	19	3	2020	19:00	Skolimowskiego 2	domestic cat	1
+373	WIELICZKA	21	3	2020	7:44	Niepolomska DW 964	roe deer	30
+374	WIELICZKA	21	3	2020	9:34	Golkowice 384	roe deer	31
+375	WIELICZKA	22	3	2020	8:38	Krakowska WIELICZKA	domestic cat	2
+376	WIELICZKA	22	3	2020	11:25	Kodomestic catów 165	roe deer	20
+377	WIELICZKA	23	3	2020	13:39	Siercza 258	roe deer	39
+378	WIELICZKA	23	3	2020	16:03	Grottgera 94	domestic cat	3
+379	WIELICZKA	24	3	2020	18:12	Mała Wieś 141	roe deer	39
+380	WIELICZKA	25	3	2020	1:20	Kodomestic catów 169	roe deer	
+381	WIELICZKA	26	3	2020	7:48	Gdowska	dog	6
+382	WIELICZKA	26	3	2020	14:27	Kodomestic catow 673	roe deer	30
+383	WIELICZKA	28	3	2020	7:42	Ochota 12-15	roe deer	20
+384	WIELICZKA	28	3	2020	11:02	Mietniowska 11	roe deer	20
+385	WIELICZKA	28	3	2020	21:15	Jankówka 71	roe deer	20
+522	WIELICZKA	1	4	2020	8:15	Grabówki	domestic cat	2
+523	WIELICZKA	4	4	2020	14:39	Byszyce 172	roe deer	25
+524	WIELICZKA	6	4	2020	15:45	Brzegi	roe deer	25
+525	WIELICZKA	8	4	2020	9:57	Grabówki	roe deer	18
+526	WIELICZKA	9	4	2020	17:09	Pawlikowice	roe deer	12
+527	WIELICZKA	11	4	2020	8:34	Jankówka 41-56	roe deer	25
+528	WIELICZKA	14	4	2020	13:09	Gorzków 189	roe deer	25
+529	WIELICZKA	14	4	2020	21:09	Brzegi rondo misericordii	roe deer	20
+530	WIELICZKA	14	4	2020	22:18	Mała Wieś 150	domestic cat	1
+531	WIELICZKA	15	4	2020	10:21	Wegrzce Wielkie 506-301	hare	3
+532	WIELICZKA	16	4	2020	5:39	Podstolice	roe deer	
+533	WIELICZKA	16	4	2020	9:38	Czarnochowska16	roe deer	22
+534	WIELICZKA	17	4	2020	19:11	Warzycka 37	birds	3
+535	WIELICZKA	19	4	2020	9:04	Raciborsko 60	hare	5
+671	WIELICZKA	2	5	2020	8:13	Warzycka	domestic cat	4
+672	WIELICZKA	6	5	2020	13:40	Warzycka 37	domestic cat	2
+673	WIELICZKA	6	5	2020	14:49	Pawlikowice	roe deer	16
+674	WIELICZKA	8	5	2020	18:49	Mietniów	roe deer	24
+675	WIELICZKA	8	5	2020	20:01	Byszyce	roe deer	24
+676	WIELICZKA	10	5	2020	9:59	Janowice	dog	2
+677	WIELICZKA	10	5	2020	17:00	Chorągwica	roe deer	25
+678	WIELICZKA	11	5	2020	7:51	Koźmice Wielkie	domestic cat	
+679	WIELICZKA	11	5	2020	22:54	Sułków	wild boar	113
+680	WIELICZKA	12	5	2020	15:26	Warzycka	domestic cat	3
+681	WIELICZKA	15	5	2020	8:08	Grajów 133	roe deer	20
+682	WIELICZKA	21	5	2020	9:28	Pawlikowice 161	domestic cat	
+683	WIELICZKA	21	5	2020	11:00	Węgrzce Wielkie 	birds	1
+684	WIELICZKA	21	5	2020	14:38	Brzegi/Grabie	roe deer	18
+685	WIELICZKA	22	5	2020	8:17	Węgrzce Wielkie 176	roe deer	25
+686	WIELICZKA	24	5	2020	5:36	Gorzków cmentarz	roe deer	20
+687	WIELICZKA	27	5	2020	8:39	Gorzków 174	domestic cat	3
+688	WIELICZKA	28	5	2020	19:40	Koźmice Wielkie 467	roe deer	15
+689	WIELICZKA	29	5	2020	12:24	Pawlikowice 67	red deer	120
+690	WIELICZKA	30	5	2020	9:45	Golkowice 51A	roe deer	30
+691	WIELICZKA	30	5	2020	10:06	Pawlikowice 202	domestic cat	3
+805	WIELICZKA	1	6	2020	13:31	Chorągwica 175	roe deer	20
+806	WIELICZKA	2	6	2020	21:00	Jankówka 74	roe deer	20
+807	WIELICZKA	3	6	2020	9:58	Siercza 539	roe deer	
+808	WIELICZKA	3	6	2020	9:58	Siercza 539	roe deer	
+809	WIELICZKA	4	6	2020	12:50	Węgrzce Wielkie 624	roe deer	
+810	WIELICZKA	4	6	2020	15:11	Węgrzce Wielkie 624	roe deer	27
+811	WIELICZKA	5	6	2020	21:39	Brzegi	domestic cat	10
+812	WIELICZKA	8	6	2020	9:37	Węgrzce Wielkie 195	red fox	3
+813	WIELICZKA	8	6	2020	12:08	Skulimowskiego 8	roe deer	1
+814	WIELICZKA	9	6	2020	16:07	Warzycka 37	domestic cat	7
+815	WIELICZKA	10	6	2020	7:12	Siercza 258	roe deer	20
+816	WIELICZKA	11	6	2020	9:22	Narutowicza	domestic cat	1
+817	WIELICZKA	11	6	2020	9:22	Narutowicza	domestic cat	1
+818	WIELICZKA	12	6	2020	6:45	Koźmice wielkie 265	roe deer	2
+819	WIELICZKA	12	6	2020	6:45	Pawlikowice 212	red fox	1
+820	WIELICZKA	12	6	2020	6:45	Koźmice Wielkie 560	domestic cat	
+821	WIELICZKA	13	6	2020	17:52	Zabawa 161	domestic cat	4
+822	WIELICZKA	15	6	2020	11:13	Siercza 161	dog	3
+823	WIELICZKA	16	6	2020	19:45	Dobranowice 167	roe deer	30
+824	WIELICZKA	17	6	2020	20:39	Strumiany 46	roe deer	35
+825	WIELICZKA	18	6	2020	11:32	Modrzewiowa 43	domestic cat	2
+826	WIELICZKA	20	6	2020	9:26	Skulimowskiego 2	hedgehog	1
+827	WIELICZKA	22	6	2020	11:52	Gorzków 93	roe deer	20
+828	WIELICZKA	28	6	2020	8:09	Grajów	hare	
+829	WIELICZKA	29	6	2020	8:26	Czarnochowice	domestic cat	
+830	WIELICZKA	29	6	2020	8:26	Chorągwica/Grajów	hare	
+831	WIELICZKA	30	6	2020	12:07	Śledziejowice	hedgehog	
