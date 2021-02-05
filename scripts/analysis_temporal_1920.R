@@ -37,7 +37,7 @@ theme_set <- ggplot2::theme_bw() +
 # df$species <- str_replace(df$species, "bird$", "birds")
 # write.table(df, "./data/dataset_carpented.txt", sep = "\t", quote = FALSE)
 
-df <- read.table("/klaster/work/abasak/project_SB/data/dataset_carpented.txt", 
+df <- read.table("./data/dataset_carpented.txt", 
                  header = TRUE, sep = "\t", stringsAsFactors = FALSE) %>% 
 filter(year %in% c(2019,2020), month != 12)
 
@@ -135,9 +135,9 @@ geom_point(aes(colour = lockdown, size = lockdown, alpha = lockdown), position =
 geom_smooth(method = "loess", se = FALSE, aes(colour = lockdown, linetype = lockdown)) +
 facet_grid(Gmina ~., scale = "fixed", space = "free") +
 scale_x_continuous(breaks = c(0, 400, 800, 1200, 1600, 2000, 2400)) +
-scale_colour_manual(values = c(`FALSE` = "lightgrey", `TRUE` = "black"), guide = FALSE) +
-scale_size_manual(values = c(`FALSE` = 0.3, `TRUE` = 1), guide = FALSE) +
-scale_alpha_manual(values = c(`FALSE` = 0.3, `TRUE` = 0.6), guide = FALSE) +
+scale_colour_manual(values = c(`FALSE` = "darkgrey", `TRUE` = "black"), guide = FALSE) +
+scale_size_manual(values = c(`FALSE` = 0.75, `TRUE` = 1), guide = FALSE) +
+scale_alpha_manual(values = c(`FALSE` = 0.6, `TRUE` = 0.6), guide = FALSE) +
 scale_linetype_manual(values = c(`FALSE` = "dashed", `TRUE` = "solid"), guide = FALSE) +
 labs(x = "Time (hrs)", y = "Total HWC") +
 theme_set +
@@ -145,7 +145,7 @@ theme_set +
         legend.text = element_text(size = 3),
         axis.text = element_text(size = 12),
         axis.title = element_text(hjust = 0.5, vjust = 0.5, size = 14)) +
-  ggsave("/klaster/work/abasak/project_SB/figures/trendline_temporal.png", 
+  ggsave("./figures/trendline_temporal.png", 
          dpi = 600, units = "in", 
          width = 4, height = 4, limitsize = FALSE, bg = "transparent",
          device = "png")
