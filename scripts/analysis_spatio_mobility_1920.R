@@ -337,7 +337,7 @@ chis <- c(cca_obj$tot.chi, cca_obj$CCA$tot.chi, cca_obj$CA$tot.chi)
 variable <- data.frame(inertia = chis, proportion = chis/chis[1], 
                        row.names = c("total", "constrianed", "unconstrained"))
 
-ti <- paste0("(HWC) ~ Year:Month + Condition(days), Variance explained = ", con_var, " % ; p.value = ", round(pval, 3), "*")
+ti <- paste0("(AVC) ~ Year:Month + Condition(days), Variance explained = ", con_var, " % ; p.value = ", round(pval, 3), "*")
 
 (cca_plot <- cbind.data.frame(df_wide[,c(1,2,3,4)], mat, 
                  cca1 = cca_obj$CCA$wa[,1], 

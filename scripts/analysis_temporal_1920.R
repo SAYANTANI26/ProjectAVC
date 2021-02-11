@@ -37,7 +37,7 @@ theme_set <- ggplot2::theme_bw() +
 # df$species <- str_replace(df$species, "bird$", "birds")
 # write.table(df, "./data/dataset_carpented.txt", sep = "\t", quote = FALSE)
 
-df <- read.table("./data/dataset_carpented.txt", 
+df <- read.table("/klaster/work/abasak/project_SB/data/dataset_carpented.txt", 
                  header = TRUE, sep = "\t", stringsAsFactors = FALSE) %>% 
 filter(year %in% c(2019,2020), month != 12)
 
@@ -135,17 +135,17 @@ geom_point(aes(colour = lockdown, size = lockdown, alpha = lockdown), position =
 geom_smooth(method = "loess", se = FALSE, aes(colour = lockdown, linetype = lockdown)) +
 facet_grid(Gmina ~., scale = "fixed", space = "free") +
 scale_x_continuous(breaks = c(0, 400, 800, 1200, 1600, 2000, 2400)) +
-scale_colour_manual(values = c(`FALSE` = "darkgrey", `TRUE` = "black"), guide = FALSE) +
-scale_size_manual(values = c(`FALSE` = 0.75, `TRUE` = 1), guide = FALSE) +
-scale_alpha_manual(values = c(`FALSE` = 0.6, `TRUE` = 0.6), guide = FALSE) +
+scale_colour_manual(values = c(`FALSE` = "lightgrey", `TRUE` = "black"), guide = FALSE) +
+scale_size_manual(values = c(`FALSE` = 0.3, `TRUE` = 1), guide = FALSE) +
+scale_alpha_manual(values = c(`FALSE` = 0.3, `TRUE` = 0.6), guide = FALSE) +
 scale_linetype_manual(values = c(`FALSE` = "dashed", `TRUE` = "solid"), guide = FALSE) +
-labs(x = "Time (hrs)", y = "Total HWC") +
+labs(x = "Time (hrs)", y = "Total AVC") +
 theme_set +
   theme(title = element_text(size = 10),
         legend.text = element_text(size = 3),
         axis.text = element_text(size = 12),
         axis.title = element_text(hjust = 0.5, vjust = 0.5, size = 14)) +
-  ggsave("./figures/trendline_temporal.png", 
+  ggsave("/klaster/work/abasak/project_SB/figures/trendline_temporal.png", 
          dpi = 600, units = "in", 
          width = 4, height = 4, limitsize = FALSE, bg = "transparent",
          device = "png")
@@ -493,7 +493,7 @@ chis <- c(cca_obj$tot.chi, cca_obj$CCA$tot.chi, cca_obj$CA$tot.chi)
 variable <- data.frame(inertia = chis, proportion = chis/chis[1], 
                        row.names = c("total", "constrianed", "unconstrained"))
 
-ti <- paste0("(HWC) ~ Time:Gmina:Lockdown + Condition(month + year), Variance explained = ", con_var, " % ; p.value = ", round(pval, 3), "*")
+ti <- paste0("(AVC) ~ Time:Gmina:Lockdown + Condition(month + year), Variance explained = ", con_var, " % ; p.value = ", round(pval, 3), "*")
 
 # Pairwise PERMANOVA for the factors
 df_wide$group <- as.factor(paste(df_wide$time_range, df_wide$Gmina, df_wide$lockdown, sep = "_"))
@@ -788,7 +788,7 @@ parallel::mclapply(sig_animals, function(x){
   scale_size_manual(values = c(`FALSE` = 0.3, `TRUE` = 1), guide = FALSE) +
   scale_alpha_manual(values = c(`FALSE` = 0.3, `TRUE` = 0.6), guide = FALSE) +
   scale_linetype_manual(values = c(`FALSE` = "dashed", `TRUE` = "solid"), guide = FALSE) +
-  labs(x = "Time (hrs)", y = paste0(x, " HWC")) +
+  labs(x = "Time (hrs)", y = paste0(x, " AVC")) +
   theme_set +
   theme(axis.text.x = element_text(size = 14), 
         axis.text.y = element_text(size = 14), 
@@ -1336,7 +1336,7 @@ ggsave(mds_composite_time,
          bg = "transparent",
          device = "png")
 
-# Spatio tempora for individual HWC
+# Spatio tempora for individual AVC
 mds_composite_l <- cowplot::plot_grid(
   plot_mds12_l,
   # plot_mds23_l,

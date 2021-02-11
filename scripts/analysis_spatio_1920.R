@@ -278,7 +278,7 @@ chis <- c(cca_obj$tot.chi, cca_obj$CCA$tot.chi, cca_obj$CA$tot.chi)
 variable <- data.frame(inertia = chis, proportion = chis/chis[1], 
                        row.names = c("total", "constrianed", "unconstrained"))
 
-ti <- paste0("(HWC) ~ Region + Condition(month + year), Variance explained = ", con_var, " % ; p.value = ", round(pval, 3), "*")
+ti <- paste0("(AVC) ~ Region + Condition(month + year), Variance explained = ", con_var, " % ; p.value = ", round(pval, 3), "*")
 
 
 # CCA analysis
@@ -335,7 +335,7 @@ chis <- c(cca_obj$tot.chi, cca_obj$CCA$tot.chi, cca_obj$CA$tot.chi)
 variable <- data.frame(inertia = chis, proportion = chis/chis[1], 
                        row.names = c("total", "constrianed", "unconstrained"))
 
-ti <- paste0("(HWC) ~ lockdown + Condition(month + year), Variance explained = ", con_var, " % ; p.value = ", round(pval, 3), "*")
+ti <- paste0("(AVC) ~ lockdown + Condition(month + year), Variance explained = ", con_var, " % ; p.value = ", round(pval, 3), "*")
 
 # Pairwise PERMANOVA for the factors
 df_wide$group <- as.factor(paste(df_wide$Gmina, df_wide$lockdown, sep = "_"))
@@ -488,7 +488,7 @@ arrange(desc(significance))
         strip.text.x = element_text(angle = 90, size = 8, hjust = 0.5, vjust = 0.5),
         legend.text = element_text(hjust = 0.5, vjust = 0.8)
         ) +
-  labs(x = "", fill = "% HWC", y = "")) +
+  labs(x = "", fill = "% AVC", y = "")) +
   ggsave("/klaster/work/abasak/project_SB/figures/abundance_HWC.png",
          dpi = 600, units = "in",
          width = 12, height = 8, limitsize = FALSE, 
